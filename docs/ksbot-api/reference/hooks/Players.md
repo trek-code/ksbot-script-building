@@ -1,0 +1,26 @@
+﻿# rs.kreme.ksbot.api.hooks.Players
+
+Package: ``rs.kreme.ksbot.api.hooks``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.hooks.Players implements rs.kreme.ksbot.api.interfaces.Queryable<rs.kreme.ksbot.api.queries.PlayerQuery> {
+  public static int[] IIIllIIliIIl;
+  public boolean isLocalIdle();
+  public rs.kreme.ksbot.api.queries.Query query();
+  public rs.kreme.ksbot.api.wrappers.KSPlayer getPlayerByName(java.lang.String);
+  static {};
+  public double distanceTo(net.runelite.api.coords.WorldPoint);
+  public int getLocalCombatLevel();
+  public rs.kreme.ksbot.api.hooks.Players(rs.kreme.ksbot.api.KSContext);
+  public static void iliIiiliiiii();
+  public boolean isLocalMoving();
+  public rs.kreme.ksbot.api.wrappers.KSPlayer getLocal();
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public rs.kreme.ksbot.api.queries.PlayerQuery query();
+}
+```

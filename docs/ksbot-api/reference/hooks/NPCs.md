@@ -1,0 +1,29 @@
+﻿# rs.kreme.ksbot.api.hooks.NPCs
+
+Package: ``rs.kreme.ksbot.api.hooks``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.hooks.NPCs implements rs.kreme.ksbot.api.interfaces.Queryable<rs.kreme.ksbot.api.queries.NPCQuery> {
+  public static int[] IIIllIIliIIl;
+  public rs.kreme.ksbot.api.hooks.NPCs(rs.kreme.ksbot.api.KSContext);
+  public boolean hasLOS(net.runelite.api.NPC);
+  public rs.kreme.ksbot.api.queries.Query query();
+  public boolean isNearby(int, int);
+  public void itemOnNpc(rs.kreme.ksbot.api.wrappers.KSNPC, rs.kreme.ksbot.api.wrappers.KSItem);
+  public rs.kreme.ksbot.api.queries.NPCQuery query();
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public rs.kreme.ksbot.api.wrappers.KSNPC getClosest(java.lang.String...);
+  public rs.kreme.ksbot.api.wrappers.KSNPC getClosestAlive(java.lang.String...);
+  public long getNearbyPlayerCount(net.runelite.api.NPC);
+  public static void iliIiiliiiii();
+  static {};
+  public rs.kreme.ksbot.api.wrappers.KSNPC getClosestAlive(int...);
+  public rs.kreme.ksbot.api.wrappers.KSNPC getClosest(int...);
+  public boolean isNearby(java.lang.String, int);
+}
+```

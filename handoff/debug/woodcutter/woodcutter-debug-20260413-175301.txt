@@ -1,0 +1,101 @@
+State: NAVIGATE_TO_BANK
+Status: Navigating to bank
+Route: Varrock West Oaks
+Tree: Oak Tree
+Mode: Bank
+Player Tile: WorldPoint(x=3166, y=3420, plane=0)
+Last Action: walking bank approach
+Logs Cut: 60
+XP: 14027514
+Time Since Tree Click (ms): -
+Time Since Tree Gain (ms): -
+Time Since Move (ms): 783
+Time In State (ms): 23062
+Bank Path Index: 0
+Current Target Tree: -
+Last Bank Target: -
+Last Bank Candidates: 34810@WorldPoint(x=3186, y=3436, plane=0), 10583@WorldPoint(x=3186, y=3438, plane=0), 10583@WorldPoint(x=3186, y=3440, plane=0), 10583@WorldPoint(x=3186, y=3442, plane=0), 10583@WorldPoint(x=3186, y=3444, plane=0)
+Last Move Target: WorldPoint(x=3183, y=3433, plane=0)
+Last Path Destination: WorldPoint(x=3183, y=3433, plane=0)
+Last Path Length: 12
+Last Path Failure: -
+Minimap Zoom: 4.0
+Bank Stand Anchor: WorldPoint(x=3185, y=3436, plane=0)
+Bank Ready: false
+In Tree Area: true
+In Bank Area: false
+Inventory Full: true
+
+Event Log
+- 17:51:28 [START] Route=Varrock West Oaks, mode=Bank
+- 17:51:29 [STATE] NAVIGATE_TO_TREES -> CHOPPING
+- 17:51:32 [LOG] Gained 2 log(s).
+- 17:51:33 [LOG] Gained 2 log(s).
+- 17:51:35 [LOG] Gained 2 log(s).
+- 17:51:35 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 17:51:36 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3432, plane=0) (path length 11)
+- 17:51:36 [LOG] Gained 2 log(s).
+- 17:51:37 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 8)
+- 17:51:39 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 6)
+- 17:51:39 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 5)
+- 17:51:42 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3435, plane=0)
+- 17:51:43 [MOVE] walking bank approach -> exact tile WorldPoint(x=3185, y=3436, plane=0)
+- 17:51:44 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 17:51:44 [BANK] Opened bank via custom object ids [10583, 34810]
+- 17:51:48 [STATE] BANKING -> RETURN_TO_TREES
+- 17:51:49 [STATE] RETURN_TO_TREES -> CHOPPING
+- 17:51:57 [LOG] Gained 2 log(s).
+- 17:51:58 [LOG] Gained 2 log(s).
+- 17:51:59 [LOG] Gained 2 log(s).
+- 17:52:00 [LOG] Gained 2 log(s).
+- 17:52:07 [LOG] Gained 2 log(s).
+- 17:52:09 [LOG] Gained 2 log(s).
+- 17:52:11 [LOG] Gained 2 log(s).
+- 17:52:12 [LOG] Gained 1 log(s).
+- 17:52:12 [LOG] Gained 1 log(s).
+- 17:52:13 [LOG] Gained 2 log(s).
+- 17:52:14 [LOG] Gained 2 log(s).
+- 17:52:16 [LOG] Gained 2 log(s).
+- 17:52:18 [LOG] Gained 2 log(s).
+- 17:52:19 [LOG] Gained 2 log(s).
+- 17:52:20 [LOG] Gained 2 log(s).
+- 17:52:25 [LOG] Gained 2 log(s).
+- 17:52:26 [LOG] Gained 2 log(s).
+- 17:52:27 [LOG] Gained 2 log(s).
+- 17:52:29 [LOG] Gained 2 log(s).
+- 17:52:30 [LOG] Gained 2 log(s).
+- 17:52:31 [LOG] Gained 2 log(s).
+- 17:52:32 [LOG] Gained 2 log(s).
+- 17:52:34 [LOG] Gained 2 log(s).
+- 17:52:34 [LOG] Gained 2 log(s).
+- 17:52:36 [LOG] Gained 2 log(s).
+- 17:52:37 [LOG] Gained 2 log(s).
+- 17:52:38 [LOG] Gained 2 log(s).
+- 17:52:38 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 17:52:38 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:39 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:40 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:41 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:42 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:42 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:43 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:44 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:45 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:46 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:47 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:47 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:48 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:49 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:50 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:51 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:52 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:53 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:53 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:54 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:55 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:56 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:57 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:58 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:59 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:52:59 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)
+- 17:53:00 [MOVE] walking bank approach -> visible step WorldPoint(x=3180, y=3434, plane=0) (path length 12)

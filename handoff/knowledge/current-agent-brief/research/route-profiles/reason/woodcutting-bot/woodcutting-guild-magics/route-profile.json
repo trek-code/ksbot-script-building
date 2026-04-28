@@ -1,0 +1,466 @@
+{
+    "meta":  {
+                 "serverName":  "Reason",
+                 "serverSlug":  "reason",
+                 "botFamily":  "woodcutting-bot",
+                 "botFamilySlug":  "woodcutting-bot",
+                 "routeName":  "Woodcutting Guild Magics",
+                 "routeSlug":  "woodcutting-guild-magics",
+                 "activityType":  "woodcutting",
+                 "resourceType":  "Magic Tree",
+                 "createdDate":  "2026-04-12",
+                 "status":  "draft"
+             },
+    "requirements":  {
+                         "levelRequirement":  "75",
+                         "itemRequirements":  [
+
+                                              ],
+                         "accountRequirements":  [
+
+                                                 ],
+                         "teleportRequirements":  [
+
+                                                  ],
+                         "notes":  [
+                                       "Guild route requires at least 60 woodcutting to enter the area."
+                                   ]
+                     },
+    "routeAnchors":  {
+                         "teleportDestination":  [
+
+                                                 ],
+                         "treeOrTargetAnchor":  [
+
+                                                ],
+                         "returnTargetAnchor":  [
+
+                                                ],
+                         "bankDoorTiles":  [
+                                               {
+                                                   "category":  "bankDoor",
+                                                   "label":  "entry tile",
+                                                   "x":  1591,
+                                                   "y":  3479,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "First inside tile for guild bank building"
+                                               }
+                                           ],
+                         "bankInsideTiles":  [
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  1591,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  1591,
+                                                     "y":  3478,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  1591,
+                                                     "y":  3477,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 4",
+                                                     "x":  1591,
+                                                     "y":  3476,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 }
+                                             ],
+                         "bankStandTile":  [
+                                               {
+                                                   "category":  "bankStand",
+                                                   "label":  "front of chest",
+                                                   "x":  1592,
+                                                   "y":  3476,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Tile in front of the guild bank chest"
+                                               },
+                                               {
+                                                   "category":  "bankStand",
+                                                   "label":  "inside stand",
+                                                   "x":  1591,
+                                                   "y":  3477,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Preferred inside stand tile before clicking the chest"
+                                               }
+                                           ],
+                         "bankObjectTile":  [
+                                                {
+                                                    "category":  "bankTarget",
+                                                    "label":  "bank chest",
+                                                    "x":  1592,
+                                                    "y":  3475,
+                                                    "plane":  0,
+                                                    "id":  28861,
+                                                    "actions":  [
+                                                                    "Use",
+                                                                    "Bank"
+                                                                ],
+                                                    "notes":  "Woodcutting Guild bank chest"
+                                                }
+                                            ],
+                         "safeStandTiles":  [
+
+                                            ]
+                     },
+    "resourceTargets":  {
+                            "names":  [
+                                          "Magic Tree"
+                                      ],
+                            "objectIds":  [
+                                              10834
+                                          ],
+                            "npcIds":  [
+
+                                       ],
+                            "groundItemIds":  [
+
+                                              ],
+                            "tiles":  [
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "magic 1",
+                                              "x":  1580,
+                                              "y":  3482,
+                                              "plane":  0,
+                                              "id":  10834,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild magic"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "magic 2",
+                                              "x":  1580,
+                                              "y":  3485,
+                                              "plane":  0,
+                                              "id":  10834,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild magic"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "magic 3",
+                                              "x":  1577,
+                                              "y":  3482,
+                                              "plane":  0,
+                                              "id":  10834,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild magic"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "magic 4",
+                                              "x":  1577,
+                                              "y":  3485,
+                                              "plane":  0,
+                                              "id":  10834,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild magic"
+                                          }
+                                      ]
+                        },
+    "bankTargets":  {
+                        "type":  "chest",
+                        "objectIds":  [
+                                          28861
+                                      ],
+                        "npcIds":  [
+
+                                   ],
+                        "actions":  [
+                                        "Bank",
+                                        "Use"
+                                    ],
+                        "tiles":  [
+                                      {
+                                          "category":  "bankTarget",
+                                          "label":  "bank chest",
+                                          "x":  1592,
+                                          "y":  3475,
+                                          "plane":  0,
+                                          "id":  28861,
+                                          "actions":  [
+                                                          "Use",
+                                                          "Bank"
+                                                      ],
+                                          "notes":  "Woodcutting Guild bank chest"
+                                      }
+                                  ]
+                    },
+    "pathChains":  {
+                       "toResource":  [
+
+                                      ],
+                       "toBank":  [
+
+                                  ],
+                       "returnToResource":  [
+
+                                            ],
+                       "alternatePaths":  [
+
+                                          ]
+                   },
+    "interactionTargets":  {
+                               "doors":  [
+
+                                         ],
+                               "gates":  [
+
+                                         ],
+                               "ladders":  [
+
+                                           ],
+                               "stairs":  [
+
+                                          ],
+                               "portals":  [
+
+                                           ],
+                               "obstacles":  [
+
+                                             ]
+                           },
+    "walkerHints":  {
+                        "preferredScanRadius":  16,
+                        "avoidTiles":  [
+
+                                       ],
+                        "blockedTileFlags":  [
+
+                                             ],
+                        "regionNotes":  [
+
+                                        ],
+                        "customServerWarnings":  [
+
+                                                 ]
+                    },
+    "loot":  {
+                 "defaultEnabled":  false,
+                 "suggestedItems":  [
+                                        "Bird nest"
+                                    ],
+                 "pickupStyle":  "immediate"
+             },
+    "sourceData":  {
+                       "importedMapperExports":  [
+
+                                                 ],
+                       "manualCaptureRows":  [
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "magic 1",
+                                                     "x":  1580,
+                                                     "y":  3482,
+                                                     "plane":  0,
+                                                     "id":  10834,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild magic"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "magic 2",
+                                                     "x":  1580,
+                                                     "y":  3485,
+                                                     "plane":  0,
+                                                     "id":  10834,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild magic"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "magic 3",
+                                                     "x":  1577,
+                                                     "y":  3482,
+                                                     "plane":  0,
+                                                     "id":  10834,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild magic"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "magic 4",
+                                                     "x":  1577,
+                                                     "y":  3485,
+                                                     "plane":  0,
+                                                     "id":  10834,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild magic"
+                                                 },
+                                                 {
+                                                     "category":  "bankDoor",
+                                                     "label":  "entry tile",
+                                                     "x":  1591,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "First inside tile for guild bank building"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  1591,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  1591,
+                                                     "y":  3478,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  1591,
+                                                     "y":  3477,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 4",
+                                                     "x":  1591,
+                                                     "y":  3476,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankStand",
+                                                     "label":  "front of chest",
+                                                     "x":  1592,
+                                                     "y":  3476,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Tile in front of the guild bank chest"
+                                                 },
+                                                 {
+                                                     "category":  "bankStand",
+                                                     "label":  "inside stand",
+                                                     "x":  1591,
+                                                     "y":  3477,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Preferred inside stand tile before clicking the chest"
+                                                 },
+                                                 {
+                                                     "category":  "bankTarget",
+                                                     "label":  "bank chest",
+                                                     "x":  1592,
+                                                     "y":  3475,
+                                                     "plane":  0,
+                                                     "id":  28861,
+                                                     "actions":  [
+                                                                     "Use",
+                                                                     "Bank"
+                                                                 ],
+                                                     "notes":  "Woodcutting Guild bank chest"
+                                                 }
+                                             ]
+                   },
+    "testStatus":  {
+                       "choppingOrInteraction":  "",
+                       "banking":  "",
+                       "powercutting":  "",
+                       "looting":  "",
+                       "knownIssues":  [
+
+                                       ],
+                       "nextFixes":  [
+
+                                     ]
+                   },
+    "paths":  {
+                  "routeRoot":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-magics",
+                  "capturesDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-magics\\captures",
+                  "exportsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-magics\\exports",
+                  "screenshotsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-magics\\screenshots"
+              }
+}

@@ -1,0 +1,357 @@
+{
+    "meta":  {
+                 "serverName":  "Reason",
+                 "serverSlug":  "reason",
+                 "botFamily":  "woodcutting-bot",
+                 "botFamilySlug":  "woodcutting-bot",
+                 "routeName":  "Seers village Maples",
+                 "routeSlug":  "seers-village-maples",
+                 "activityType":  "woodcutting",
+                 "resourceType":  "Maple tree",
+                 "createdDate":  "2026-04-12",
+                 "status":  "draft"
+             },
+    "requirements":  {
+                         "levelRequirement":  "",
+                         "itemRequirements":  [
+
+                                              ],
+                         "accountRequirements":  [
+
+                                                 ],
+                         "teleportRequirements":  [
+
+                                                  ],
+                         "notes":  [
+
+                                   ]
+                     },
+    "routeAnchors":  {
+                         "teleportDestination":  [
+
+                                                 ],
+                         "treeOrTargetAnchor":  [
+
+                                                ],
+                         "returnTargetAnchor":  [
+
+                                                ],
+                         "bankDoorTiles":  [
+
+                                           ],
+                         "bankInsideTiles":  [
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  2726,
+                                                     "y":  3489,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Seers inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  2727,
+                                                     "y":  3491,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Seers inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  2727,
+                                                     "y":  3492,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Seers inside bank tile"
+                                                 }
+                                             ],
+                         "bankStandTile":  [
+
+                                           ],
+                         "bankObjectTile":  [
+
+                                            ],
+                         "safeStandTiles":  [
+
+                                            ]
+                     },
+    "resourceTargets":  {
+                            "names":  [
+
+                                      ],
+                            "objectIds":  [
+                                              10832
+                                          ],
+                            "npcIds":  [
+
+                                       ],
+                            "groundItemIds":  [
+
+                                              ],
+                            "tiles":  [
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "maple tree 1",
+                                              "x":  2727,
+                                              "y":  3501,
+                                              "plane":  0,
+                                              "id":  10832,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Maple tree 1"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "maple tree 2",
+                                              "x":  2721,
+                                              "y":  3501,
+                                              "plane":  0,
+                                              "id":  10832,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Maple tree 2"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "maple tree 3",
+                                              "x":  2730,
+                                              "y":  3501,
+                                              "plane":  0,
+                                              "id":  10832,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Maple tree 3"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "maple tree 4",
+                                              "x":  2732,
+                                              "y":  3499,
+                                              "plane":  0,
+                                              "id":  10832,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Maple tree 4"
+                                          }
+                                      ]
+                        },
+    "bankTargets":  {
+                        "type":  "booth",
+                        "objectIds":  [
+                                          25808
+                                      ],
+                        "npcIds":  [
+
+                                   ],
+                        "actions":  [
+                                        "Bank"
+                                    ],
+                        "tiles":  [
+                                      {
+                                          "category":  "bankTarget",
+                                          "label":  "Bank booth",
+                                          "x":  2727,
+                                          "y":  3494,
+                                          "plane":  0,
+                                          "id":  25808,
+                                          "actions":  [
+                                                          "Bank"
+                                                      ],
+                                          "notes":  ""
+                                      }
+                                  ]
+                    },
+    "pathChains":  {
+                       "toResource":  [
+
+                                      ],
+                       "toBank":  [
+
+                                  ],
+                       "returnToResource":  [
+
+                                            ],
+                       "alternatePaths":  [
+
+                                          ]
+                   },
+    "interactionTargets":  {
+                               "doors":  [
+
+                                         ],
+                               "gates":  [
+
+                                         ],
+                               "ladders":  [
+
+                                           ],
+                               "stairs":  [
+
+                                          ],
+                               "portals":  [
+
+                                           ],
+                               "obstacles":  [
+
+                                             ]
+                           },
+    "walkerHints":  {
+                        "preferredScanRadius":  16,
+                        "avoidTiles":  [
+
+                                       ],
+                        "blockedTileFlags":  [
+
+                                             ],
+                        "regionNotes":  [
+
+                                        ],
+                        "customServerWarnings":  [
+
+                                                 ]
+                    },
+    "loot":  {
+                 "defaultEnabled":  false,
+                 "suggestedItems":  [
+
+                                    ],
+                 "pickupStyle":  "immediate"
+             },
+    "sourceData":  {
+                       "importedMapperExports":  [
+
+                                                 ],
+                       "manualCaptureRows":  [
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "maple tree 1",
+                                                     "x":  2727,
+                                                     "y":  3501,
+                                                     "plane":  0,
+                                                     "id":  10832,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Maple tree 1"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "maple tree 2",
+                                                     "x":  2721,
+                                                     "y":  3501,
+                                                     "plane":  0,
+                                                     "id":  10832,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Maple tree 2"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "maple tree 3",
+                                                     "x":  2730,
+                                                     "y":  3501,
+                                                     "plane":  0,
+                                                     "id":  10832,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Maple tree 3"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "maple tree 4",
+                                                     "x":  2732,
+                                                     "y":  3499,
+                                                     "plane":  0,
+                                                     "id":  10832,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Maple tree 4"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  2726,
+                                                     "y":  3489,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Seers inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  2727,
+                                                     "y":  3491,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Seers inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  2727,
+                                                     "y":  3492,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Seers inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankTarget",
+                                                     "label":  "Bank booth",
+                                                     "x":  2727,
+                                                     "y":  3494,
+                                                     "plane":  0,
+                                                     "id":  25808,
+                                                     "actions":  [
+                                                                     "Bank"
+                                                                 ],
+                                                     "notes":  ""
+                                                 }
+                                             ]
+                   },
+    "testStatus":  {
+                       "choppingOrInteraction":  "",
+                       "banking":  "",
+                       "powercutting":  "",
+                       "looting":  "",
+                       "knownIssues":  [
+
+                                       ],
+                       "nextFixes":  [
+
+                                     ]
+                   },
+    "paths":  {
+                  "routeRoot":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\seers-village-maples",
+                  "capturesDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\seers-village-maples\\captures",
+                  "exportsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\seers-village-maples\\exports",
+                  "screenshotsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\seers-village-maples\\screenshots"
+              }
+}

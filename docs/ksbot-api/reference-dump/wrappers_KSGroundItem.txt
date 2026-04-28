@@ -1,0 +1,31 @@
+﻿public final class rs.kreme.ksbot.api.wrappers.KSGroundItem implements rs.kreme.ksbot.api.interfaces.Locatable,rs.kreme.ksbot.api.interfaces.Identifiable,rs.kreme.ksbot.api.interfaces.Interactable {
+  public static int[] IIIllIIliIIl;
+  public void interact(int, net.runelite.api.MenuAction, int, int);
+  public int getId();
+  public java.awt.geom.Rectangle2D getClickBounds();
+  public net.runelite.api.coords.WorldPoint getWorldLocation();
+  public boolean canPickup();
+  static {};
+  public void interact(int);
+  public rs.kreme.ksbot.api.KSContext getCtx();
+  public java.lang.String toString();
+  public int getDistance();
+  public long getTotalValue();
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public java.lang.String getName();
+  public net.runelite.api.MenuAction[] getMenuOptions();
+  public rs.kreme.ksbot.api.wrappers.KSGroundItem(net.runelite.client.game.ItemStack);
+  public net.runelite.api.Tile getTile();
+  public boolean interact(java.lang.String);
+  public boolean interact(java.lang.String...);
+  public void interact(net.runelite.api.MenuAction);
+  public rs.kreme.ksbot.api.wrappers.KSGroundItem(int, int);
+  public rs.kreme.ksbot.api.wrappers.KSGroundItem(int, int, net.runelite.api.Tile);
+  public net.runelite.api.coords.LocalPoint getLocation();
+  public java.lang.String[] getActions();
+  public int getQuantity();
+  public static void iliIiiliiiii();
+  public long getPrice();
+  public boolean isNoted();
+  public void interact(int, net.runelite.api.MenuAction);
+}

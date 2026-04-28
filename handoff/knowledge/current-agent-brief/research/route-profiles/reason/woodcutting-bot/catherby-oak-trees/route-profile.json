@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "serverName": "Reason",
+    "serverSlug": "reason",
+    "botFamily": "woodcutting-bot",
+    "botFamilySlug": "woodcutting-bot",
+    "routeName": "Catherby Oak Trees",
+    "routeSlug": "catherby-oak-trees",
+    "activityType": "woodcutting",
+    "resourceType": "Oak Tree",
+    "createdDate": "2026-04-12",
+    "status": "draft"
+  },
+  "requirements": {
+    "levelRequirement": "",
+    "itemRequirements": [],
+    "accountRequirements": [],
+    "teleportRequirements": [],
+    "notes": [
+      "Manual intake from screenshots/chat."
+    ]
+  },
+  "routeAnchors": {
+    "teleportDestination": [],
+    "treeOrTargetAnchor": [],
+    "returnTargetAnchor": [],
+    "bankDoorTiles": [],
+    "bankInsideTiles": [
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 2809,
+        "y": 3439,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank inside tile"
+      }
+    ],
+    "bankStandTile": [],
+    "bankObjectTile": [],
+    "safeStandTiles": []
+  },
+  "resourceTargets": {
+    "names": [],
+    "objectIds": [],
+    "npcIds": [],
+    "groundItemIds": [],
+    "tiles": [
+      {
+        "category": "resourceTile",
+        "label": "oak tree 1",
+        "x": 2786,
+        "y": 3433,
+        "plane": 0,
+        "id": "",
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 1"
+      },
+      {
+        "category": "resourceTile",
+        "label": "oak tree 2",
+        "x": 2785,
+        "y": 3437,
+        "plane": 0,
+        "id": "",
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 2"
+      }
+    ]
+  },
+  "bankTargets": {
+    "type": "booth",
+    "objectIds": [
+      10355
+    ],
+    "npcIds": [],
+    "actions": [
+      "Bank",
+      "Collect"
+    ],
+    "tiles": [
+      {
+        "category": "bankTarget",
+        "label": "bank booth",
+        "x": 2809,
+        "y": 3442,
+        "plane": 0,
+        "id": 10355,
+        "actions": [
+          "Bank",
+          "Collect"
+        ],
+        "notes": "Catherby booth target"
+      }
+    ]
+  },
+  "pathChains": {
+    "toResource": [],
+    "toBank": [],
+    "returnToResource": [],
+    "alternatePaths": []
+  },
+  "interactionTargets": {
+    "doors": [],
+    "gates": [],
+    "ladders": [],
+    "stairs": [],
+    "portals": [],
+    "obstacles": []
+  },
+  "walkerHints": {
+    "preferredScanRadius": 16,
+    "avoidTiles": [],
+    "blockedTileFlags": [],
+    "regionNotes": [
+      "Bank booth and one inside tile confirmed.",
+      "Tree object ids still needed."
+    ],
+    "customServerWarnings": []
+  },
+  "loot": {
+    "defaultEnabled": false,
+    "suggestedItems": [],
+    "pickupStyle": "immediate"
+  },
+  "sourceData": {
+    "importedMapperExports": [],
+    "manualCaptureRows": [
+      {
+        "category": "resourceTile",
+        "label": "oak tree 1",
+        "x": 2786,
+        "y": 3433,
+        "plane": 0,
+        "id": "",
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 1"
+      },
+      {
+        "category": "resourceTile",
+        "label": "oak tree 2",
+        "x": 2785,
+        "y": 3437,
+        "plane": 0,
+        "id": "",
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 2"
+      },
+      {
+        "category": "bankTarget",
+        "label": "bank booth",
+        "x": 2809,
+        "y": 3442,
+        "plane": 0,
+        "id": 10355,
+        "actions": [
+          "Bank",
+          "Collect"
+        ],
+        "notes": "Catherby booth target"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 2809,
+        "y": 3439,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank inside tile"
+      }
+    ]
+  },
+  "testStatus": {
+    "choppingOrInteraction": "",
+    "banking": "",
+    "powercutting": "",
+    "looting": "",
+    "knownIssues": [],
+    "nextFixes": [
+      "Need oak object ids if this becomes a live route."
+    ]
+  },
+  "paths": {
+    "routeRoot": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees",
+    "capturesDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees\\captures",
+    "exportsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees\\exports",
+    "screenshotsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees\\screenshots"
+  }
+}

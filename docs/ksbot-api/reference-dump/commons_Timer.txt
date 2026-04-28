@@ -1,0 +1,31 @@
+﻿public class rs.kreme.ksbot.api.commons.Timer {
+  public static int[] IIIllIIliIIl;
+  public java.lang.String getRemainingTime();
+  public void pause();
+  public void restart(long);
+  public rs.kreme.ksbot.api.commons.Timer();
+  public double getPercent();
+  public void stop();
+  public rs.kreme.ksbot.api.commons.Timer(long);
+  public void restart();
+  public long getRemaining();
+  public void reset();
+  public static void iliIiiliiiii();
+  public long getStart();
+  public rs.kreme.ksbot.api.commons.Timer(long, long);
+  static {};
+  public void extend(long);
+  public void resume();
+  protected java.lang.String formatTime(long);
+  public long getPerHour(long);
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public long getDuration();
+  public java.lang.String toString();
+  public boolean isRunning();
+  public long getElapsedTime();
+  public boolean isPaused();
+  public boolean isFinished();
+  public boolean hasTimeRemaining(long);
+  public boolean isActive();
+  public long getPerHour(long, long);
+}

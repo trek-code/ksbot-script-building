@@ -1,0 +1,48 @@
+﻿# rs.kreme.ksbot.api.wrappers.KSPlayer
+
+Package: ``rs.kreme.ksbot.api.wrappers``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.wrappers.KSPlayer implements rs.kreme.ksbot.api.interfaces.Interactable,rs.kreme.ksbot.api.interfaces.Locatable,rs.kreme.ksbot.api.interfaces.Identifiable,rs.kreme.ksbot.api.interfaces.Animatable {
+  public static int[] IIIllIIliIIl;
+  public rs.kreme.ksbot.api.wrappers.KSPlayer(rs.kreme.ksbot.api.KSContext, net.runelite.api.Player);
+  public boolean isDead();
+  public java.lang.String[] getActions();
+  public boolean interact(java.lang.String);
+  public int getGraphics();
+  public net.runelite.api.Actor getInteracting();
+  public net.runelite.api.coords.LocalPoint getLocalPoint();
+  public void interact(int, net.runelite.api.MenuAction);
+  public java.awt.geom.Rectangle2D getClickBounds();
+  public boolean isSkulled();
+  public boolean inMotion();
+  public java.lang.String toString();
+  public boolean isDonator();
+  public void interact(net.runelite.api.MenuAction);
+  public void interact(int);
+  public java.lang.String getName();
+  public static void iliIiiliiiii();
+  public net.runelite.api.Player getPlayer();
+  public void interact(int, net.runelite.api.MenuAction, int, int);
+  public int getCombatLevel();
+  public boolean isMoving();
+  public boolean interact(java.lang.String...);
+  public net.runelite.api.PlayerComposition getComp();
+  static {};
+  public boolean isIdle();
+  public int getAnimation();
+  public int getId();
+  public int getActionIndex(java.lang.String);
+  public boolean hasAction(java.lang.String);
+  public net.runelite.api.coords.WorldPoint getWorldLocation();
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public java.lang.Integer getSkullIcon();
+  public boolean isAnimating();
+  public net.runelite.api.HeadIcon getOverheadPrayer();
+}
+```

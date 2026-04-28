@@ -1,0 +1,186 @@
+State: PAUSED
+Status: Paused
+Route: Varrock West Oaks
+Tree: Oak Tree
+Mode: Bank
+Player Tile: WorldPoint(x=3169, y=3423, plane=0)
+Last Action: cutting
+Logs Cut: 158
+XP: 14645229
+Time Since Tree Click (ms): 25846
+Time Since Tree Gain (ms): -
+Time Since Move (ms): 34723
+Time In State (ms): 29126
+Bank Path Index: 0
+Current Target Tree: WorldPoint(x=3168, y=3421, plane=0)
+Last Bank Target: -
+Last Bank Candidates: 34810@WorldPoint(x=3186, y=3436, plane=0), 10583@WorldPoint(x=3186, y=3438, plane=0), 10583@WorldPoint(x=3186, y=3440, plane=0), 10583@WorldPoint(x=3186, y=3442, plane=0), 10583@WorldPoint(x=3186, y=3444, plane=0)
+Last Move Target: WorldPoint(x=3185, y=3436, plane=0)
+Last Path Destination: WorldPoint(x=3185, y=3436, plane=0)
+Last Path Length: 7
+Last Path Failure: -
+Minimap Zoom: 2.0
+Last Observed Tile: WorldPoint(x=3174, y=3428, plane=0)
+Time On Observed Tile (ms): 25286
+Repeated Move Target Count: 0
+Bank Stand Anchor: WorldPoint(x=3185, y=3436, plane=0)
+Bank Ready: false
+In Tree Area: false
+In Bank Area: false
+Inventory Full: false
+
+Event Log
+- 18:14:56 [START] Route=Varrock West Oaks, mode=Bank
+- 18:14:56 [PATH] Minimap zoom 4.0 -> 2.0 for script start
+- 18:14:57 [STATE] NAVIGATE_TO_TREES -> CHOPPING
+- 18:15:03 [LOG] Gained 2 log(s).
+- 18:15:03 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 18:15:03 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:15:03 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 9)
+- 18:15:04 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 7)
+- 18:15:05 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:15:05 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 5)
+- 18:15:07 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3433, plane=0)
+- 18:15:07 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:15:08 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3435, plane=0)
+- 18:15:09 [MOVE] walking bank approach -> exact tile WorldPoint(x=3185, y=3436, plane=0)
+- 18:15:10 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:15:11 [BANK] Opened bank via custom object ids [10583, 34810]
+- 18:15:15 [STATE] BANKING -> RETURN_TO_TREES
+- 18:15:15 [STATE] RETURN_TO_TREES -> CHOPPING
+- 18:15:23 [LOG] Gained 2 log(s).
+- 18:15:24 [LOG] Gained 1 log(s).
+- 18:15:25 [LOG] Gained 1 log(s).
+- 18:15:26 [LOG] Gained 2 log(s).
+- 18:15:27 [LOG] Gained 2 log(s).
+- 18:15:28 [LOG] Gained 2 log(s).
+- 18:15:29 [LOG] Gained 2 log(s).
+- 18:15:30 [LOG] Gained 2 log(s).
+- 18:15:32 [LOG] Gained 2 log(s).
+- 18:15:33 [LOG] Gained 2 log(s).
+- 18:15:39 [LOG] Gained 2 log(s).
+- 18:15:41 [LOG] Gained 2 log(s).
+- 18:15:42 [LOG] Gained 2 log(s).
+- 18:15:43 [LOG] Gained 2 log(s).
+- 18:15:44 [LOG] Gained 2 log(s).
+- 18:15:45 [LOG] Gained 2 log(s).
+- 18:15:47 [LOG] Gained 2 log(s).
+- 18:15:48 [LOG] Gained 2 log(s).
+- 18:15:49 [LOG] Gained 1 log(s).
+- 18:15:49 [LOG] Gained 1 log(s).
+- 18:15:50 [LOG] Gained 2 log(s).
+- 18:15:52 [LOG] Gained 2 log(s).
+- 18:15:53 [LOG] Gained 2 log(s).
+- 18:15:54 [LOG] Gained 2 log(s).
+- 18:15:55 [LOG] Gained 2 log(s).
+- 18:15:56 [LOG] Gained 2 log(s).
+- 18:15:57 [LOG] Gained 2 log(s).
+- 18:15:58 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 18:15:58 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:15:58 [MOVE] walking bank approach -> visible step WorldPoint(x=3182, y=3433, plane=0) (path length 12)
+- 18:15:59 [LOG] Gained 2 log(s).
+- 18:16:00 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:16:00 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 10)
+- 18:16:01 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:16:01 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 7)
+- 18:16:03 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 5)
+- 18:16:03 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:16:04 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3433, plane=0)
+- 18:16:06 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3435, plane=0)
+- 18:16:06 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:16:07 [MOVE] walking bank approach -> exact tile WorldPoint(x=3185, y=3436, plane=0)
+- 18:16:08 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:16:08 [BANK] Opened bank via custom object ids [10583, 34810]
+- 18:16:13 [STATE] BANKING -> RETURN_TO_TREES
+- 18:16:13 [STATE] RETURN_TO_TREES -> CHOPPING
+- 18:16:21 [LOG] Gained 2 log(s).
+- 18:16:21 [LOG] Gained 2 log(s).
+- 18:16:23 [LOG] Gained 2 log(s).
+- 18:16:24 [LOG] Gained 2 log(s).
+- 18:16:25 [LOG] Gained 2 log(s).
+- 18:16:26 [LOG] Gained 2 log(s).
+- 18:16:28 [LOG] Gained 2 log(s).
+- 18:16:28 [LOG] Gained 2 log(s).
+- 18:16:35 [LOG] Gained 2 log(s).
+- 18:16:37 [LOG] Gained 2 log(s).
+- 18:16:37 [LOG] Gained 2 log(s).
+- 18:16:43 [LOG] Gained 2 log(s).
+- 18:16:43 [LOG] Gained 2 log(s).
+- 18:16:45 [LOG] Gained 2 log(s).
+- 18:16:46 [LOG] Gained 2 log(s).
+- 18:16:47 [LOG] Gained 1 log(s).
+- 18:16:48 [LOG] Gained 1 log(s).
+- 18:16:48 [LOG] Gained 2 log(s).
+- 18:16:50 [LOG] Gained 2 log(s).
+- 18:16:51 [LOG] Gained 2 log(s).
+- 18:16:52 [LOG] Gained 2 log(s).
+- 18:16:55 [LOG] Gained 2 log(s).
+- 18:16:55 [LOG] Gained 2 log(s).
+- 18:16:58 [LOG] Gained 2 log(s).
+- 18:17:01 [LOG] Gained 2 log(s).
+- 18:17:03 [LOG] Gained 2 log(s).
+- 18:17:03 [LOG] Gained 2 log(s).
+- 18:17:03 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 18:17:03 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:17:04 [MOVE] walking bank approach -> visible step WorldPoint(x=3182, y=3433, plane=0) (path length 12)
+- 18:17:05 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 10)
+- 18:17:06 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:17:06 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 8)
+- 18:17:07 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 6)
+- 18:17:08 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:17:09 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3433, plane=0)
+- 18:17:10 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:17:11 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3435, plane=0)
+- 18:17:11 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:17:12 [MOVE] walking bank approach -> exact tile WorldPoint(x=3185, y=3436, plane=0)
+- 18:17:13 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:17:13 [BANK] Opened bank via custom object ids [10583, 34810]
+- 18:17:17 [STATE] BANKING -> RETURN_TO_TREES
+- 18:17:18 [STATE] RETURN_TO_TREES -> CHOPPING
+- 18:17:24 [LOG] Gained 2 log(s).
+- 18:17:31 [LOG] Gained 2 log(s).
+- 18:17:33 [LOG] Gained 2 log(s).
+- 18:17:33 [LOG] Gained 2 log(s).
+- 18:17:35 [LOG] Gained 2 log(s).
+- 18:17:36 [LOG] Gained 2 log(s).
+- 18:17:37 [LOG] Gained 1 log(s).
+- 18:17:37 [LOG] Gained 1 log(s).
+- 18:17:38 [LOG] Gained 2 log(s).
+- 18:17:40 [LOG] Gained 2 log(s).
+- 18:17:41 [LOG] Gained 2 log(s).
+- 18:17:42 [LOG] Gained 2 log(s).
+- 18:17:45 [LOG] Gained 2 log(s).
+- 18:17:45 [LOG] Gained 2 log(s).
+- 18:17:47 [LOG] Gained 2 log(s).
+- 18:17:48 [LOG] Gained 2 log(s).
+- 18:17:49 [LOG] Gained 2 log(s).
+- 18:17:50 [LOG] Gained 2 log(s).
+- 18:17:52 [LOG] Gained 2 log(s).
+- 18:17:52 [LOG] Gained 1 log(s).
+- 18:17:53 [LOG] Gained 1 log(s).
+- 18:17:54 [LOG] Gained 2 log(s).
+- 18:17:55 [LOG] Gained 2 log(s).
+- 18:17:56 [LOG] Gained 1 log(s).
+- 18:17:57 [LOG] Gained 1 log(s).
+- 18:17:57 [LOG] Gained 2 log(s).
+- 18:17:59 [LOG] Gained 2 log(s).
+- 18:18:00 [LOG] Gained 2 log(s).
+- 18:18:01 [LOG] Gained 2 log(s).
+- 18:18:01 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 18:18:01 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:18:01 [MOVE] walking bank approach -> visible step WorldPoint(x=3182, y=3433, plane=0) (path length 12)
+- 18:18:02 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 11)
+- 18:18:03 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:18:03 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 10)
+- 18:18:04 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 8)
+- 18:18:04 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:18:05 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 7)
+- 18:18:07 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3433, plane=0)
+- 18:18:07 [PATH] Minimap zoom 2.0 -> 2.0 for walking bank approach
+- 18:18:08 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3435, plane=0)
+- 18:18:09 [MOVE] walking bank approach -> exact tile WorldPoint(x=3185, y=3436, plane=0)
+- 18:18:10 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:18:10 [BANK] Opened bank via custom object ids [10583, 34810]
+- 18:18:14 [STATE] BANKING -> RETURN_TO_TREES
+- 18:18:15 [STATE] RETURN_TO_TREES -> CHOPPING
+- 18:18:19 [CONTROL] Pause requested

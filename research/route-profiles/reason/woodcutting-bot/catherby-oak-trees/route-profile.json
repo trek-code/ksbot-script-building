@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "serverName": "Reason",
+    "serverSlug": "reason",
+    "botFamily": "woodcutting-bot",
+    "botFamilySlug": "woodcutting-bot",
+    "routeName": "Catherby Oak Trees",
+    "routeSlug": "catherby-oak-trees",
+    "activityType": "woodcutting",
+    "resourceType": "Oak Tree",
+    "createdDate": "2026-04-12",
+    "status": "draft"
+  },
+  "requirements": {
+    "levelRequirement": "",
+    "itemRequirements": [],
+    "accountRequirements": [],
+    "teleportRequirements": [],
+    "notes": [
+      "Manual intake from screenshots/chat."
+    ]
+  },
+  "routeAnchors": {
+    "teleportDestination": [],
+    "treeOrTargetAnchor": [],
+    "returnTargetAnchor": [],
+    "bankDoorTiles": [
+      {
+        "category": "bankDoor",
+        "label": "entrance tile 1",
+        "x": 2808,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank entrance tile"
+      },
+      {
+        "category": "bankDoor",
+        "label": "entrance tile 2",
+        "x": 2809,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank entrance tile"
+      }
+    ],
+    "bankInsideTiles": [
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 2808,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 2",
+        "x": 2809,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank inside tile"
+      }
+    ],
+    "bankStandTile": [
+      {
+        "category": "bankStand",
+        "label": "stand tile",
+        "x": 2807,
+        "y": 3441,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby stand tile in front of booth"
+      }
+    ],
+    "bankObjectTile": [],
+    "safeStandTiles": []
+  },
+  "resourceTargets": {
+    "names": [],
+    "objectIds": [],
+    "npcIds": [],
+    "groundItemIds": [],
+    "tiles": [
+      {
+        "category": "resourceTile",
+        "label": "oak tree 1",
+        "x": 2787,
+        "y": 3434,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 1"
+      },
+      {
+        "category": "resourceTile",
+        "label": "oak tree 2",
+        "x": 2786,
+        "y": 3438,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 2"
+      },
+      {
+        "category": "resourceTile",
+        "label": "oak tree 3",
+        "x": 2787,
+        "y": 3444,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 3"
+      }
+    ]
+  },
+  "bankTargets": {
+    "type": "booth",
+    "objectIds": [
+      10355
+    ],
+    "npcIds": [],
+    "actions": [
+      "Bank",
+      "Collect"
+    ],
+    "tiles": [
+      {
+        "category": "bankTarget",
+        "label": "bank booth",
+        "x": 2807,
+        "y": 3442,
+        "plane": 0,
+        "id": 10355,
+        "actions": [
+          "Bank",
+          "Collect"
+        ],
+        "notes": "Catherby booth target"
+      }
+    ]
+  },
+  "pathChains": {
+    "toResource": [],
+    "toBank": [],
+    "returnToResource": [],
+    "alternatePaths": []
+  },
+  "interactionTargets": {
+    "doors": [],
+    "gates": [],
+    "ladders": [],
+    "stairs": [],
+    "portals": [],
+    "obstacles": []
+  },
+  "walkerHints": {
+    "preferredScanRadius": 16,
+    "avoidTiles": [],
+    "blockedTileFlags": [],
+    "regionNotes": [
+      "Bank booth and one inside tile confirmed.",
+      "Oak object ids confirmed as 10820."
+    ],
+    "customServerWarnings": []
+  },
+  "loot": {
+    "defaultEnabled": false,
+    "suggestedItems": [],
+    "pickupStyle": "immediate"
+  },
+  "sourceData": {
+    "importedMapperExports": [],
+    "manualCaptureRows": [
+      {
+        "category": "resourceTile",
+        "label": "oak tree 1",
+        "x": 2787,
+        "y": 3434,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 1"
+      },
+      {
+        "category": "resourceTile",
+        "label": "oak tree 2",
+        "x": 2786,
+        "y": 3438,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 2"
+      },
+      {
+        "category": "resourceTile",
+        "label": "oak tree 3",
+        "x": 2787,
+        "y": 3444,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Catherby oak tree 3"
+      },
+      {
+        "category": "bankTarget",
+        "label": "bank booth",
+        "x": 2807,
+        "y": 3442,
+        "plane": 0,
+        "id": 10355,
+        "actions": [
+          "Bank",
+          "Collect"
+        ],
+        "notes": "Catherby booth target"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 2808,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 2",
+        "x": 2809,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank inside tile"
+      },
+      {
+        "category": "bankStand",
+        "label": "stand tile",
+        "x": 2807,
+        "y": 3441,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby stand tile in front of booth"
+      },
+      {
+        "category": "bankDoor",
+        "label": "entrance tile 1",
+        "x": 2808,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank entrance tile"
+      },
+      {
+        "category": "bankDoor",
+        "label": "entrance tile 2",
+        "x": 2809,
+        "y": 3438,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Catherby bank entrance tile"
+      }
+    ]
+  },
+  "testStatus": {
+    "choppingOrInteraction": "",
+    "banking": "",
+    "powercutting": "",
+    "looting": "",
+    "knownIssues": [],
+    "nextFixes": [
+      "Add willow variant later if desired."
+    ]
+  },
+  "paths": {
+    "routeRoot": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees",
+    "capturesDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees\\captures",
+    "exportsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees\\exports",
+    "screenshotsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\catherby-oak-trees\\screenshots"
+  }
+}

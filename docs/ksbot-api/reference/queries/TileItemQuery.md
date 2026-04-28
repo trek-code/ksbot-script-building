@@ -1,0 +1,45 @@
+﻿# rs.kreme.ksbot.api.queries.TileItemQuery
+
+Package: ``rs.kreme.ksbot.api.queries``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.queries.TileItemQuery extends rs.kreme.ksbot.api.queries.Query<rs.kreme.ksbot.api.wrappers.KSGroundItem, rs.kreme.ksbot.api.queries.TileItemQuery> {
+  public static int[] iIlIlllllill;
+  public rs.kreme.ksbot.api.queries.TileItemQuery belowPriceItem(int);
+  public rs.kreme.ksbot.api.queries.TileItemQuery notAtLocation(net.runelite.api.coords.WorldPoint);
+  public rs.kreme.ksbot.api.queries.TileItemQuery tradeable();
+  public rs.kreme.ksbot.api.queries.TileItemQuery inArea(net.runelite.api.coords.WorldArea);
+  protected int getId(java.lang.Object);
+  static {};
+  public rs.kreme.ksbot.api.queries.TileItemQuery onlyNoted();
+  public rs.kreme.ksbot.api.queries.TileItemQuery inArea(rs.kreme.ksbot.api.hooks.WorldArea);
+  public rs.kreme.ksbot.api.queries.TileItemQuery abovePrice(int);
+  public rs.kreme.ksbot.api.queries.TileItemQuery withinDistance(int);
+  protected java.lang.String getName(rs.kreme.ksbot.api.wrappers.KSGroundItem);
+  protected java.lang.String[] getOptions(java.lang.Object);
+  public rs.kreme.ksbot.api.wrappers.KSGroundItem closest();
+  protected boolean contains(rs.kreme.ksbot.api.wrappers.KSGroundItem, java.util.List<rs.kreme.ksbot.api.wrappers.KSGroundItem>);
+  public rs.kreme.ksbot.api.queries.TileItemQuery yourLoot();
+  public rs.kreme.ksbot.api.queries.TileItemQuery notYourLoot();
+  public rs.kreme.ksbot.api.queries.TileItemQuery abovePriceItem(int);
+  protected java.lang.String getName(java.lang.Object);
+  public rs.kreme.ksbot.api.queries.TileItemQuery notInArea(net.runelite.api.coords.WorldArea);
+  public static void IilliliilIIi();
+  public rs.kreme.ksbot.api.queries.TileItemQuery withinDistanceToPoint(int, net.runelite.api.coords.WorldPoint);
+  protected java.lang.String[] getOptions(rs.kreme.ksbot.api.wrappers.KSGroundItem);
+  protected int getId(rs.kreme.ksbot.api.wrappers.KSGroundItem);
+  public rs.kreme.ksbot.api.wrappers.KSGroundItem closestToPoint(net.runelite.api.coords.WorldPoint);
+  public rs.kreme.ksbot.api.queries.TileItemQuery onlyUnnoted();
+  public rs.kreme.ksbot.api.queries.TileItemQuery belowPrice(int);
+  public rs.kreme.ksbot.api.queries.TileItemQuery stackable();
+  public rs.kreme.ksbot.api.queries.TileItemQuery notInArea(rs.kreme.ksbot.api.hooks.WorldArea);
+  public rs.kreme.ksbot.api.queries.TileItemQuery atLocation(net.runelite.api.coords.WorldPoint);
+  public rs.kreme.ksbot.api.wrappers.KSGroundItem nearestToPlayer();
+  public rs.kreme.ksbot.api.queries.TileItemQuery(java.util.Collection<rs.kreme.ksbot.api.wrappers.KSGroundItem>);
+}
+```

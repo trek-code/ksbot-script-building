@@ -1,0 +1,62 @@
+﻿# rs.kreme.ksbot.api.queries.Query
+
+Package: ``rs.kreme.ksbot.api.queries``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public abstract class rs.kreme.ksbot.api.queries.Query<T, Q extends rs.kreme.ksbot.api.queries.Query<T, Q>> {
+  protected java.util.List<T> data;
+  public rs.kreme.ksbot.api.KSContext ctx;
+  public boolean exists();
+  public Q withNameOrId(java.lang.String);
+  public Q unique();
+  public java.util.List<T> shuffledList();
+  public java.util.List<T> list(int);
+  public Q withoutNameOrId(java.lang.String);
+  public Q withoutOption(java.util.List<java.lang.String>);
+  public Q withoutId(int...);
+  public Q offset(int);
+  public T max(java.util.Comparator<T>);
+  public boolean empty();
+  public Q withName(java.lang.String...);
+  public java.util.List<T> shuffledList(int);
+  public T last();
+  public rs.kreme.ksbot.api.queries.Query(java.util.Collection<T>);
+  public Q omit(java.lang.String...);
+  public int count();
+  public java.util.stream.Stream<T> stream();
+  public Q withId(int...);
+  public Q limit(int);
+  public Q sorted(java.util.Comparator<T>);
+  protected abstract java.lang.String[] getOptions(T);
+  public T min(java.util.Comparator<T>);
+  public void forEach(java.util.function.Consumer<? super T>);
+  public Q withName(java.util.List<java.lang.String>);
+  protected abstract java.lang.String getName(T);
+  public Q withOption(java.util.List<java.lang.String>);
+  public java.util.List<T> list();
+  public Q filter(java.util.function.Predicate<? super T>);
+  public boolean allMatch(java.util.function.Predicate<? super T>);
+  public Q withOption(java.lang.String...);
+  public Q omit(java.util.function.Predicate<? super T>);
+  public T first();
+  public T first(java.util.function.Predicate<T>);
+  protected abstract int getId(T);
+  public Q withoutName(java.util.List<java.lang.String>);
+  public Q withoutName(java.lang.String...);
+  public Q reverse();
+  public T random();
+  public Q withoutOption(java.lang.String...);
+  public Q omit(int...);
+  public Q withoutId(java.util.List<java.lang.Integer>);
+  public Q omit(java.util.List<?>);
+  public boolean anyMatch(java.util.function.Predicate<? super T>);
+  public Q withId(java.util.List<java.lang.Integer>);
+  public boolean noneMatch(java.util.function.Predicate<? super T>);
+  public T at(int);
+}
+```

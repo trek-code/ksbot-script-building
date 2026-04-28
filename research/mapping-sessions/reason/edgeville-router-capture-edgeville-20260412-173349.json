@@ -1,0 +1,10634 @@
+{
+  "sessionName": "Edgeville-router-capture",
+  "zoneName": "Edgeville",
+  "createdAt": "2026-04-12T22:26:56.295765300Z",
+  "summary": {
+    "anchorCount": 4,
+    "waypointCount": 14,
+    "objectCount": 802,
+    "npcCount": 43,
+    "groundItemCount": 0,
+    "blockedTileCount": 0
+  },
+  "playerSnapshot": {
+    "x": 3096,
+    "y": 3495,
+    "plane": 0
+  },
+  "importedMapperExports": [],
+  "anchors": [
+    {
+      "label": "player-tile",
+      "tile": {
+        "x": 3096,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "label": "player-tile",
+      "tile": {
+        "x": 3096,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "label": "front of booth",
+      "tile": {
+        "x": 3096,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "label": "Ornate Pool of Rejuvenation",
+      "tile": {
+        "x": 3088,
+        "y": 3504,
+        "plane": 0
+      }
+    }
+  ],
+  "waypoints": [
+    {
+      "label": "route-start",
+      "order": 1,
+      "autoRecorded": false,
+      "tile": {
+        "x": 3096,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-2",
+      "order": 2,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3099,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-3",
+      "order": 3,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3102,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-4",
+      "order": 4,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3106,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-5",
+      "order": 5,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3110,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-6",
+      "order": 6,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3114,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-7",
+      "order": 7,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3118,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "label": "route-start",
+      "order": 8,
+      "autoRecorded": false,
+      "tile": {
+        "x": 3119,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-9",
+      "order": 9,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3115,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-10",
+      "order": 10,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3111,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-11",
+      "order": 11,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3107,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-12",
+      "order": 12,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3103,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-13",
+      "order": 13,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3099,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "label": "auto-waypoint-14",
+      "order": 14,
+      "autoRecorded": true,
+      "tile": {
+        "x": 3094,
+        "y": 3494,
+        "plane": 0
+      }
+    }
+  ],
+  "objects": [
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "actions": [
+        "Bank",
+        "Collect",
+        "Presets",
+        "Load last preset"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tree",
+      "id": 1276,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3072,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Plant",
+      "id": 1394,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3072,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3072,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3072,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3073,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Plant",
+      "id": 1394,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3073,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3073,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3073,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3074,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3074,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3074,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3074,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3074,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4736,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3075,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Fountain",
+      "id": 3641,
+      "actions": [],
+      "animating": true,
+      "animation": 6023,
+      "tile": {
+        "x": 3076,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 979,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Chair",
+      "id": 24103,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bow cabinet",
+      "id": 836,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tree",
+      "id": 1276,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3517,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3076,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Potted flower",
+      "id": 1157,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bench",
+      "id": 5615,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Potted flower",
+      "id": 1156,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Potted flower",
+      "id": 1156,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bench",
+      "id": 5615,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Potted flower",
+      "id": 1157,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13710,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Table",
+      "id": 24025,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Mannequin",
+      "id": 3624,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3077,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Dragon's head",
+      "id": 17483,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Painting",
+      "id": 25744,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3078,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3079,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3080,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Table",
+      "id": 24025,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Dragon's head",
+      "id": 15565,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Painting",
+      "id": 30151,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3081,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Portal Nexus",
+      "id": 33410,
+      "actions": [
+        "Teleport",
+        "Teleport Menu",
+        "Configuration",
+        "Remove"
+      ],
+      "animating": true,
+      "animation": 367,
+      "tile": {
+        "x": 3082,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Chair",
+      "id": 24103,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Suit of armour",
+      "id": 817,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tree",
+      "id": 1276,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Rack",
+      "id": 24000,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4738,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5534,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 50097,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Portal",
+      "id": 15478,
+      "actions": [
+        "Enter",
+        "Home",
+        "Build mode",
+        "Friend's house"
+      ],
+      "animating": true,
+      "animation": 3174,
+      "tile": {
+        "x": 3087,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Ornate pool of Rejuvenation",
+      "id": 29241,
+      "actions": [
+        "Drink",
+        "Remove"
+      ],
+      "animating": true,
+      "animation": 7304,
+      "tile": {
+        "x": 3086,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3517,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Upgrade Station",
+      "id": 46241,
+      "actions": [
+        "Operate"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Item Workbench",
+      "id": 53226,
+      "actions": [
+        "Upgrade",
+        "Item-breaking"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3088,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "actions": [
+        "Search"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "actions": [
+        "Search"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3517,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "actions": [
+        "Search"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Trading Post",
+      "id": 46240,
+      "actions": [
+        "View-Offers",
+        "Search-item",
+        "Collect Items",
+        "Collect Coins"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "actions": [
+        "Search"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "actions": [
+        "Search"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "actions": [
+        "Search"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13710,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tree",
+      "id": 1278,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6251,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Statue",
+      "id": 13278,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Sword case",
+      "id": 2997,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Singing bowl",
+      "id": 36552,
+      "actions": [
+        "Sing-crystal"
+      ],
+      "animating": true,
+      "animation": 8413,
+      "tile": {
+        "x": 3091,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Sword case",
+      "id": 2997,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Shield display",
+      "id": 21445,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Statue",
+      "id": 13278,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33467,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33467,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3092,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6251,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Statue",
+      "id": 13278,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Display case",
+      "id": 24654,
+      "actions": [
+        "Study"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Shield display",
+      "id": 21445,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Statue",
+      "id": 13278,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank table",
+      "id": 6081,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Noticeboard",
+      "id": 962,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Chaos altar",
+      "id": 411,
+      "actions": [
+        "Pray-at"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Sword case",
+      "id": 2978,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Morytania painting",
+      "id": 13518,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "actions": [
+        "Bank",
+        "Collect",
+        "Presets",
+        "Load last preset"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "actions": [
+        "Bank",
+        "Collect",
+        "Presets",
+        "Load last preset"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "actions": [
+        "Bank",
+        "Collect",
+        "Presets",
+        "Load last preset"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 2738,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Display case",
+      "id": 24650,
+      "actions": [
+        "Study"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tree",
+      "id": 1276,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3516,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5087,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5087,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Altar of the Occult",
+      "id": 31861,
+      "actions": [
+        "Venerate",
+        "Standard",
+        "Ancient",
+        "Lunar",
+        "Arceuus"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Hidden Statue",
+      "id": 32632,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1123,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 29495,
+      "actions": [],
+      "animating": true,
+      "animation": 9845,
+      "tile": {
+        "x": 3099,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14097,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33467,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 33467,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Karamja painting",
+      "id": 13516,
+      "actions": [
+        "Remove"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1245,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Barrel",
+      "id": 2137,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Elven Crystal Chest",
+      "id": 36582,
+      "actions": [
+        "Open",
+        "Check"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Slayer chest",
+      "id": 46243,
+      "actions": [
+        "Open",
+        "Check"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Shelf",
+      "id": 1019,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Closed chest",
+      "id": 172,
+      "actions": [
+        "Open"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Shelf",
+      "id": 1020,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Brimstone chest",
+      "id": 34660,
+      "actions": [
+        "Unlock",
+        "Check"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3491,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Flowers",
+      "id": 16729,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1245,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1245,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Flowers",
+      "id": 16729,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3514,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Fern",
+      "id": 1300,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Yew tree",
+      "id": 10822,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3519,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3102,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3504,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3506,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Magic tree",
+      "id": 10834,
+      "actions": [
+        "Chop down"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3508,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3512,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3515,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23273,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3103,
+        "y": 3520,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 1246,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Statue of Dhamaroc",
+      "id": 61003,
+      "actions": [
+        "Touch statue",
+        "Boss Kill Counts"
+      ],
+      "animating": true,
+      "animation": 8681,
+      "tile": {
+        "x": 3104,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 13710,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3500,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3501,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3502,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Unknown",
+      "id": 23272,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3104,
+        "y": 3520,
+        "plane": 0
+      }
+    }
+  ],
+  "npcs": [
+    {
+      "name": "Duradel",
+      "id": 13622,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Nieve",
+      "id": 6797,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Konar quo Maten",
+      "id": 8623,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Vannaka",
+      "id": 403,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Turael",
+      "id": 13618,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3098,
+        "y": 3513,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Spring impling",
+      "id": 17192,
+      "actions": [
+        "Catch"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Krystilia",
+      "id": 7663,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3100,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Nomad",
+      "id": 10529,
+      "actions": [
+        "Talk-to",
+        "Assignment",
+        "Trade",
+        "Rewards"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3099,
+        "y": 3507,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Estate agent",
+      "id": 3097,
+      "actions": [
+        "Talk-to",
+        "Relocate",
+        "Redecorate"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Demon butler",
+      "id": 229,
+      "actions": [
+        "Talk-to"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Sawmill operator",
+      "id": 3101,
+      "actions": [
+        "Talk-to",
+        "Buy-plank",
+        "Trade"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Dusuri's Stardust",
+      "id": 10631,
+      "actions": [
+        "Trade"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3498,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Otto Godblessed",
+      "id": 2914,
+      "actions": [
+        "Talk-to"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3497,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Amrod's Shard Exchange",
+      "id": 9053,
+      "actions": [
+        "Talk-to"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3091,
+        "y": 3511,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Apothecary Gary",
+      "id": 8532,
+      "actions": [
+        "Trade"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3510,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Grace",
+      "id": 5919,
+      "actions": [
+        "Talk-to",
+        "Trade",
+        "View Laps",
+        "Recolor"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3083,
+        "y": 3505,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Banker",
+      "id": 2897,
+      "actions": [
+        "Talk-to",
+        "Bank",
+        "Collect"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Banker",
+      "id": 2898,
+      "actions": [
+        "Talk-to",
+        "Bank",
+        "Collect"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Banker",
+      "id": 2897,
+      "actions": [
+        "Talk-to",
+        "Bank",
+        "Collect"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Awwgentavis",
+      "id": 16000,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3084,
+        "y": 3489,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Banker",
+      "id": 2898,
+      "actions": [
+        "Talk-to",
+        "Bank",
+        "Collect"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3097,
+        "y": 3488,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tanner Hydes",
+      "id": 3231,
+      "actions": [
+        "Talk-to",
+        "Tan"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Zahur the Herbalist",
+      "id": 4753,
+      "actions": [
+        "Talk-to",
+        "Decant",
+        "Clean",
+        "Make unfinished potion(s)"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Emblem Trader",
+      "id": 308,
+      "actions": [
+        "Talk-to",
+        "Rewards",
+        "Skull"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3096,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Perk Master",
+      "id": 7958,
+      "actions": [
+        "Talk-to",
+        "Exchange",
+        "Get-task"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Ghommal",
+      "id": 13613,
+      "actions": [
+        "Talk-to"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3090,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "<col=00ffff>Combat dummy</col>",
+      "id": 2668,
+      "actions": [
+        "Attack",
+        "Configure"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "<col=00ffff>Undead slayer combat dummy</col>",
+      "id": 10507,
+      "actions": [
+        "Attack",
+        "Configure"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Git",
+      "id": 17191,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Perdu's Repairs",
+      "id": 7456,
+      "actions": [
+        "Talk-to",
+        "Coffer"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3089,
+        "y": 3499,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lil'viathan",
+      "id": 12160,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Spring impling",
+      "id": 17192,
+      "actions": [
+        "Catch"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3108,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Guardian",
+      "id": 17034,
+      "actions": [],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3085,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Sraracha (Shiny)",
+      "id": 17070,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3086,
+        "y": 3496,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Skotos",
+      "id": 7671,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3087,
+        "y": 3490,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Minion",
+      "id": 17200,
+      "actions": [
+        "Attack"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3495,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Olmlet",
+      "id": 7520,
+      "actions": [
+        "Talk-to",
+        "Metamorphosis",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Rocky",
+      "id": 7353,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3093,
+        "y": 3509,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Tektiny",
+      "id": 8202,
+      "actions": [
+        "Talk-to",
+        "Metamorphosis",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3492,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Lil'viathan",
+      "id": 12160,
+      "actions": [
+        "Talk-to",
+        "Pick-up"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3094,
+        "y": 3494,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Wandering Merchant",
+      "id": 8897,
+      "actions": [
+        "Talk-to",
+        "Trade",
+        "Flip-coin",
+        "Sell"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3082,
+        "y": 3503,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Rift guardian",
+      "id": 8028,
+      "actions": [
+        "Talk-to",
+        "Pick-up",
+        "Locking"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3095,
+        "y": 3493,
+        "plane": 0
+      }
+    },
+    {
+      "name": "Spring Elemental",
+      "id": 2963,
+      "actions": [
+        "Talk",
+        "Open-store",
+        "Teleport",
+        "Active-bosses"
+      ],
+      "animating": false,
+      "animation": -1,
+      "tile": {
+        "x": 3101,
+        "y": 3490,
+        "plane": 0
+      }
+    }
+  ],
+  "groundItems": [
+  ],
+  "blockedTiles": [
+  ],
+  "walkerHints": {
+    "bankAnchors": [],
+    "resourceAnchors": [],
+    "waypointChain": [
+      "route-start",
+      "auto-waypoint-2",
+      "auto-waypoint-3",
+      "auto-waypoint-4",
+      "auto-waypoint-5",
+      "auto-waypoint-6",
+      "auto-waypoint-7",
+      "route-start",
+      "auto-waypoint-9",
+      "auto-waypoint-10",
+      "auto-waypoint-11",
+      "auto-waypoint-12",
+      "auto-waypoint-13",
+      "auto-waypoint-14"
+    ]
+  }
+}

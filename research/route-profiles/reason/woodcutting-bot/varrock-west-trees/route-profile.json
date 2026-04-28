@@ -1,0 +1,486 @@
+{
+    "meta":  {
+                 "serverName":  "Reason",
+                 "serverSlug":  "reason",
+                 "botFamily":  "woodcutting-bot",
+                 "botFamilySlug":  "woodcutting-bot",
+                 "routeName":  "Varrock West Trees",
+                 "routeSlug":  "varrock-west-trees",
+                 "activityType":  "woodcutting",
+                 "resourceType":  "Tree",
+                 "createdDate":  "2026-04-12",
+                 "status":  "draft"
+             },
+    "requirements":  {
+                         "levelRequirement":  "1",
+                         "itemRequirements":  [
+
+                                              ],
+                         "accountRequirements":  [
+
+                                                 ],
+                         "teleportRequirements":  [
+
+                                                  ],
+                         "notes":  [
+                                       "Use the closest Varrock West booth by the entrance."
+                                   ]
+                     },
+    "routeAnchors":  {
+                         "teleportDestination":  [
+
+                                                 ],
+                         "treeOrTargetAnchor":  [
+
+                                                ],
+                         "returnTargetAnchor":  [
+
+                                                ],
+                         "bankDoorTiles":  [
+                                               {
+                                                   "category":  "bankDoor",
+                                                   "label":  "entry tile 1",
+                                                   "x":  3182,
+                                                   "y":  3433,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Varrock West bank entrance"
+                                               },
+                                               {
+                                                   "category":  "bankDoor",
+                                                   "label":  "entry tile 2",
+                                                   "x":  3183,
+                                                   "y":  3433,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Varrock West bank entrance"
+                                               }
+                                           ],
+                         "bankInsideTiles":  [
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  3183,
+                                                     "y":  3434,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West inside tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  3184,
+                                                     "y":  3435,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West inside tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  3184,
+                                                     "y":  3436,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West inside tile"
+                                                 }
+                                             ],
+                         "bankStandTile":  [
+                                               {
+                                                   "category":  "bankStand",
+                                                   "label":  "stand tile",
+                                                   "x":  3184,
+                                                   "y":  3435,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Preferred stand tile inside Varrock West bank"
+                                               }
+                                           ],
+                         "bankObjectTile":  [
+                                                {
+                                                    "category":  "bankTarget",
+                                                    "label":  "bank booth",
+                                                    "x":  3186,
+                                                    "y":  3436,
+                                                    "plane":  0,
+                                                    "id":  10583,
+                                                    "actions":  [
+                                                                    "Bank"
+                                                                ],
+                                                    "notes":  "Closest booth by the bank door"
+                                                }
+                                            ],
+                         "safeStandTiles":  [
+
+                                            ]
+                     },
+    "resourceTargets":  {
+                            "names":  [
+                                          "Tree"
+                                      ],
+                            "objectIds":  [
+                                              1276
+                                          ],
+                            "npcIds":  [
+
+                                       ],
+                            "groundItemIds":  [
+
+                                              ],
+                            "tiles":  [
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "tree 1",
+                                              "x":  3160,
+                                              "y":  3414,
+                                              "plane":  0,
+                                              "id":  1276,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Varrock West tree"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "tree 2",
+                                              "x":  3159,
+                                              "y":  3416,
+                                              "plane":  0,
+                                              "id":  1276,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Varrock West tree"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "tree 3",
+                                              "x":  3162,
+                                              "y":  3414,
+                                              "plane":  0,
+                                              "id":  1276,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Varrock West tree"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "tree 4",
+                                              "x":  3161,
+                                              "y":  3410,
+                                              "plane":  0,
+                                              "id":  1276,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Varrock West tree"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "tree 5",
+                                              "x":  3163,
+                                              "y":  3410,
+                                              "plane":  0,
+                                              "id":  1276,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Varrock West tree"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "tree 6",
+                                              "x":  3166,
+                                              "y":  3406,
+                                              "plane":  0,
+                                              "id":  1276,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Varrock West tree"
+                                          }
+                                      ]
+                        },
+    "bankTargets":  {
+                        "type":  "booth",
+                        "objectIds":  [
+                                          10583
+                                      ],
+                        "npcIds":  [
+
+                                   ],
+                        "actions":  [
+                                        "Bank"
+                                    ],
+                        "tiles":  [
+                                      {
+                                          "category":  "bankTarget",
+                                          "label":  "bank booth",
+                                          "x":  3186,
+                                          "y":  3436,
+                                          "plane":  0,
+                                          "id":  10583,
+                                          "actions":  [
+                                                          "Bank"
+                                                      ],
+                                          "notes":  "Closest booth by the bank door"
+                                      }
+                                  ]
+                    },
+    "pathChains":  {
+                       "toResource":  [
+
+                                      ],
+                       "toBank":  [
+
+                                  ],
+                       "returnToResource":  [
+
+                                            ],
+                       "alternatePaths":  [
+
+                                          ]
+                   },
+    "interactionTargets":  {
+                               "doors":  [
+
+                                         ],
+                               "gates":  [
+
+                                         ],
+                               "ladders":  [
+
+                                           ],
+                               "stairs":  [
+
+                                          ],
+                               "portals":  [
+
+                                           ],
+                               "obstacles":  [
+
+                                             ]
+                           },
+    "walkerHints":  {
+                        "preferredScanRadius":  16,
+                        "avoidTiles":  [
+
+                                       ],
+                        "blockedTileFlags":  [
+
+                                             ],
+                        "regionNotes":  [
+
+                                        ],
+                        "customServerWarnings":  [
+
+                                                 ]
+                    },
+    "loot":  {
+                 "defaultEnabled":  false,
+                 "suggestedItems":  [
+                                        "Bird nest"
+                                    ],
+                 "pickupStyle":  "immediate"
+             },
+    "sourceData":  {
+                       "importedMapperExports":  [
+
+                                                 ],
+                       "manualCaptureRows":  [
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "tree 1",
+                                                     "x":  3160,
+                                                     "y":  3414,
+                                                     "plane":  0,
+                                                     "id":  1276,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Varrock West tree"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "tree 2",
+                                                     "x":  3159,
+                                                     "y":  3416,
+                                                     "plane":  0,
+                                                     "id":  1276,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Varrock West tree"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "tree 3",
+                                                     "x":  3162,
+                                                     "y":  3414,
+                                                     "plane":  0,
+                                                     "id":  1276,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Varrock West tree"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "tree 4",
+                                                     "x":  3161,
+                                                     "y":  3410,
+                                                     "plane":  0,
+                                                     "id":  1276,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Varrock West tree"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "tree 5",
+                                                     "x":  3163,
+                                                     "y":  3410,
+                                                     "plane":  0,
+                                                     "id":  1276,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Varrock West tree"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "tree 6",
+                                                     "x":  3166,
+                                                     "y":  3406,
+                                                     "plane":  0,
+                                                     "id":  1276,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Varrock West tree"
+                                                 },
+                                                 {
+                                                     "category":  "bankDoor",
+                                                     "label":  "entry tile 1",
+                                                     "x":  3182,
+                                                     "y":  3433,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West bank entrance"
+                                                 },
+                                                 {
+                                                     "category":  "bankDoor",
+                                                     "label":  "entry tile 2",
+                                                     "x":  3183,
+                                                     "y":  3433,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West bank entrance"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  3183,
+                                                     "y":  3434,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West inside tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  3184,
+                                                     "y":  3435,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West inside tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  3184,
+                                                     "y":  3436,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Varrock West inside tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankStand",
+                                                     "label":  "stand tile",
+                                                     "x":  3184,
+                                                     "y":  3435,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Preferred stand tile inside Varrock West bank"
+                                                 },
+                                                 {
+                                                     "category":  "bankTarget",
+                                                     "label":  "bank booth",
+                                                     "x":  3186,
+                                                     "y":  3436,
+                                                     "plane":  0,
+                                                     "id":  10583,
+                                                     "actions":  [
+                                                                     "Bank"
+                                                                 ],
+                                                     "notes":  "Closest booth by the bank door"
+                                                 }
+                                             ]
+                   },
+    "testStatus":  {
+                       "choppingOrInteraction":  "",
+                       "banking":  "",
+                       "powercutting":  "",
+                       "looting":  "",
+                       "knownIssues":  [
+
+                                       ],
+                       "nextFixes":  [
+
+                                     ]
+                   },
+    "paths":  {
+                  "routeRoot":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-trees",
+                  "capturesDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-trees\\captures",
+                  "exportsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-trees\\exports",
+                  "screenshotsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-trees\\screenshots"
+              }
+}

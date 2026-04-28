@@ -1,0 +1,538 @@
+{
+    "meta":  {
+                 "serverName":  "Reason",
+                 "serverSlug":  "reason",
+                 "botFamily":  "woodcutting-bot",
+                 "botFamilySlug":  "woodcutting-bot",
+                 "routeName":  "Woodcutting Guild Yews",
+                 "routeSlug":  "woodcutting-guild-yews",
+                 "activityType":  "woodcutting",
+                 "resourceType":  "Yew Tree",
+                 "createdDate":  "2026-04-12",
+                 "status":  "draft"
+             },
+    "requirements":  {
+                         "levelRequirement":  "60",
+                         "itemRequirements":  [
+
+                                              ],
+                         "accountRequirements":  [
+
+                                                 ],
+                         "teleportRequirements":  [
+
+                                                  ],
+                         "notes":  [
+                                       "Guild route requires 60 woodcutting."
+                                   ]
+                     },
+    "routeAnchors":  {
+                         "teleportDestination":  [
+
+                                                 ],
+                         "treeOrTargetAnchor":  [
+
+                                                ],
+                         "returnTargetAnchor":  [
+
+                                                ],
+                         "bankDoorTiles":  [
+                                               {
+                                                   "category":  "bankDoor",
+                                                   "label":  "entry tile",
+                                                   "x":  1591,
+                                                   "y":  3479,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "First inside tile for guild bank building"
+                                               }
+                                           ],
+                         "bankInsideTiles":  [
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  1591,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  1591,
+                                                     "y":  3478,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  1591,
+                                                     "y":  3477,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 4",
+                                                     "x":  1591,
+                                                     "y":  3476,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 }
+                                             ],
+                         "bankStandTile":  [
+                                               {
+                                                   "category":  "bankStand",
+                                                   "label":  "front of chest",
+                                                   "x":  1592,
+                                                   "y":  3476,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Tile in front of the guild bank chest"
+                                               },
+                                               {
+                                                   "category":  "bankStand",
+                                                   "label":  "inside stand",
+                                                   "x":  1591,
+                                                   "y":  3477,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Preferred inside stand tile before clicking the chest"
+                                               }
+                                           ],
+                         "bankObjectTile":  [
+                                                {
+                                                    "category":  "bankTarget",
+                                                    "label":  "bank chest",
+                                                    "x":  1592,
+                                                    "y":  3475,
+                                                    "plane":  0,
+                                                    "id":  28861,
+                                                    "actions":  [
+                                                                    "Use",
+                                                                    "Bank"
+                                                                ],
+                                                    "notes":  "Woodcutting Guild bank chest"
+                                                }
+                                            ],
+                         "safeStandTiles":  [
+
+                                            ]
+                     },
+    "resourceTargets":  {
+                            "names":  [
+                                          "Yew Tree"
+                                      ],
+                            "objectIds":  [
+                                              10822
+                                          ],
+                            "npcIds":  [
+
+                                       ],
+                            "groundItemIds":  [
+
+                                              ],
+                            "tiles":  [
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 1",
+                                              "x":  1585,
+                                              "y":  3479,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild yew"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 2",
+                                              "x":  1583,
+                                              "y":  3481,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild yew"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 3",
+                                              "x":  1595,
+                                              "y":  3481,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild yew"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 4",
+                                              "x":  1595,
+                                              "y":  3480,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild yew"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 5",
+                                              "x":  1590,
+                                              "y":  3486,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild yew"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 6",
+                                              "x":  1590,
+                                              "y":  3492,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Guild yew"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "yew 7",
+                                              "x":  1545,
+                                              "y":  3491,
+                                              "plane":  0,
+                                              "id":  10822,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Captured guild yew coordinate; verify if needed"
+                                          }
+                                      ]
+                        },
+    "bankTargets":  {
+                        "type":  "chest",
+                        "objectIds":  [
+                                          28861
+                                      ],
+                        "npcIds":  [
+
+                                   ],
+                        "actions":  [
+                                        "Bank",
+                                        "Use"
+                                    ],
+                        "tiles":  [
+                                      {
+                                          "category":  "bankTarget",
+                                          "label":  "bank chest",
+                                          "x":  1592,
+                                          "y":  3475,
+                                          "plane":  0,
+                                          "id":  28861,
+                                          "actions":  [
+                                                          "Use",
+                                                          "Bank"
+                                                      ],
+                                          "notes":  "Woodcutting Guild bank chest"
+                                      }
+                                  ]
+                    },
+    "pathChains":  {
+                       "toResource":  [
+
+                                      ],
+                       "toBank":  [
+
+                                  ],
+                       "returnToResource":  [
+
+                                            ],
+                       "alternatePaths":  [
+
+                                          ]
+                   },
+    "interactionTargets":  {
+                               "doors":  [
+
+                                         ],
+                               "gates":  [
+
+                                         ],
+                               "ladders":  [
+
+                                           ],
+                               "stairs":  [
+
+                                          ],
+                               "portals":  [
+
+                                           ],
+                               "obstacles":  [
+
+                                             ]
+                           },
+    "walkerHints":  {
+                        "preferredScanRadius":  16,
+                        "avoidTiles":  [
+
+                                       ],
+                        "blockedTileFlags":  [
+
+                                             ],
+                        "regionNotes":  [
+
+                                        ],
+                        "customServerWarnings":  [
+
+                                                 ]
+                    },
+    "loot":  {
+                 "defaultEnabled":  false,
+                 "suggestedItems":  [
+                                        "Bird nest"
+                                    ],
+                 "pickupStyle":  "immediate"
+             },
+    "sourceData":  {
+                       "importedMapperExports":  [
+
+                                                 ],
+                       "manualCaptureRows":  [
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 1",
+                                                     "x":  1585,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild yew"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 2",
+                                                     "x":  1583,
+                                                     "y":  3481,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild yew"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 3",
+                                                     "x":  1595,
+                                                     "y":  3481,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild yew"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 4",
+                                                     "x":  1595,
+                                                     "y":  3480,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild yew"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 5",
+                                                     "x":  1590,
+                                                     "y":  3486,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild yew"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 6",
+                                                     "x":  1590,
+                                                     "y":  3492,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Guild yew"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "yew 7",
+                                                     "x":  1545,
+                                                     "y":  3491,
+                                                     "plane":  0,
+                                                     "id":  10822,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Captured guild yew coordinate; verify if needed"
+                                                 },
+                                                 {
+                                                     "category":  "bankDoor",
+                                                     "label":  "entry tile",
+                                                     "x":  1591,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "First inside tile for guild bank building"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  1591,
+                                                     "y":  3479,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  1591,
+                                                     "y":  3478,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 3",
+                                                     "x":  1591,
+                                                     "y":  3477,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 4",
+                                                     "x":  1591,
+                                                     "y":  3476,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Guild inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankStand",
+                                                     "label":  "front of chest",
+                                                     "x":  1592,
+                                                     "y":  3476,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Tile in front of the guild bank chest"
+                                                 },
+                                                 {
+                                                     "category":  "bankStand",
+                                                     "label":  "inside stand",
+                                                     "x":  1591,
+                                                     "y":  3477,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Preferred inside stand tile before clicking the chest"
+                                                 },
+                                                 {
+                                                     "category":  "bankTarget",
+                                                     "label":  "bank chest",
+                                                     "x":  1592,
+                                                     "y":  3475,
+                                                     "plane":  0,
+                                                     "id":  28861,
+                                                     "actions":  [
+                                                                     "Use",
+                                                                     "Bank"
+                                                                 ],
+                                                     "notes":  "Woodcutting Guild bank chest"
+                                                 }
+                                             ]
+                   },
+    "testStatus":  {
+                       "choppingOrInteraction":  "",
+                       "banking":  "",
+                       "powercutting":  "",
+                       "looting":  "",
+                       "knownIssues":  [
+
+                                       ],
+                       "nextFixes":  [
+
+                                     ]
+                   },
+    "paths":  {
+                  "routeRoot":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-yews",
+                  "capturesDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-yews\\captures",
+                  "exportsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-yews\\exports",
+                  "screenshotsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\woodcutting-guild-yews\\screenshots"
+              }
+}

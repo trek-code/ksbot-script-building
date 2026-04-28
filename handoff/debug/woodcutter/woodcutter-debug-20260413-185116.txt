@@ -1,0 +1,103 @@
+State: NAVIGATE_TO_BANK
+Status: Navigating to bank
+Route: Catherby Oak Trees
+Tree: Oak Tree
+Mode: Bank
+Player Tile: WorldPoint(x=2807, y=3441, plane=0)
+Last Action: reposition bank stand
+Logs Cut: 8
+XP: 15669328
+Time Since Tree Click (ms): -
+Time Since Tree Gain (ms): 43728
+Time Since Move (ms): 42777
+Time In State (ms): 684
+Bank Path Index: 0
+Current Target Tree: -
+Last Bank Target: -
+Last Bank Candidates: 10355@WorldPoint(x=2807, y=3442, plane=0), 10355@WorldPoint(x=2809, y=3442, plane=0), 10355@WorldPoint(x=2811, y=3442, plane=0)
+Last Move Target: WorldPoint(x=2809, y=3439, plane=0)
+Last Path Destination: WorldPoint(x=2809, y=3439, plane=0)
+Last Path Length: 12
+Last Path Failure: -
+Minimap Zoom: 2.0
+Last Observed Tile: WorldPoint(x=2807, y=3441, plane=0)
+Time On Observed Tile (ms): 36989
+Repeated Move Target Count: 0
+Bank Stand Anchor: WorldPoint(x=2809, y=3439, plane=0)
+Bank Ready: false
+In Tree Area: false
+In Bank Area: false
+Inventory Full: true
+
+Event Log
+- 18:50:18 [START] Route=Catherby Oak Trees, mode=Bank
+- 18:50:18 [PATH] Minimap zoom 2.0 -> 2.0 for script start
+- 18:50:18 [STATE] NAVIGATE_TO_TREES -> CHOPPING
+- 18:50:29 [LOG] Gained 2 log(s).
+- 18:50:30 [LOG] Gained 2 log(s).
+- 18:50:31 [LOG] Gained 2 log(s).
+- 18:50:32 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 18:50:32 [PATH] Minimap zoom 2.0 -> 2.0 for walking to bank
+- 18:50:32 [MOVE] walking to bank -> visible step WorldPoint(x=2805, y=3439, plane=0) (path length 14)
+- 18:50:32 [LOG] Gained 2 log(s).
+- 18:50:33 [MOVE] walking to bank -> visible step WorldPoint(x=2808, y=3439, plane=0) (path length 12)
+- 18:50:34 [BANK] Opened bank via custom object ids [10355]
+- 18:50:34 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:35 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:37 [BANK] Opened bank via custom object ids [10355]
+- 18:50:37 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:38 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:39 [BANK] Opened bank via custom object ids [10355]
+- 18:50:39 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:40 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:41 [BANK] Opened bank via custom object ids [10355]
+- 18:50:41 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:42 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:43 [BANK] Opened bank via custom object ids [10355]
+- 18:50:43 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:44 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:45 [BANK] Opened bank via custom object ids [10355]
+- 18:50:45 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:46 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:47 [BANK] Opened bank via custom object ids [10355]
+- 18:50:47 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:48 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:49 [BANK] Opened bank via custom object ids [10355]
+- 18:50:49 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:50 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:51 [BANK] Opened bank via custom object ids [10355]
+- 18:50:51 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:52 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:53 [BANK] Opened bank via custom object ids [10355]
+- 18:50:53 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:54 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:55 [BANK] Opened bank via custom object ids [10355]
+- 18:50:55 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:56 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:50:58 [BANK] Opened bank via custom object ids [10355]
+- 18:50:58 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:50:59 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:00 [BANK] Opened bank via custom object ids [10355]
+- 18:51:00 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:01 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:02 [BANK] Opened bank via custom object ids [10355]
+- 18:51:02 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:03 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:04 [BANK] Opened bank via custom object ids [10355]
+- 18:51:04 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:05 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:06 [BANK] Opened bank via custom object ids [10355]
+- 18:51:06 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:07 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:08 [BANK] Opened bank via custom object ids [10355]
+- 18:51:08 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:09 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:10 [BANK] Opened bank via custom object ids [10355]
+- 18:51:10 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:11 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:12 [BANK] Opened bank via custom object ids [10355]
+- 18:51:12 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:13 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:51:14 [BANK] Opened bank via custom object ids [10355]
+- 18:51:14 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:51:15 [STATE] BANKING -> NAVIGATE_TO_BANK

@@ -1,0 +1,417 @@
+{
+    "meta":  {
+                 "serverName":  "Reason",
+                 "serverSlug":  "reason",
+                 "botFamily":  "woodcutting-bot",
+                 "botFamilySlug":  "woodcutting-bot",
+                 "routeName":  "Draynor Willows",
+                 "routeSlug":  "draynor-willows",
+                 "activityType":  "woodcutting",
+                 "resourceType":  "Willow Tree",
+                 "createdDate":  "2026-04-12",
+                 "status":  "draft"
+             },
+    "requirements":  {
+                         "levelRequirement":  "30",
+                         "itemRequirements":  [
+
+                                              ],
+                         "accountRequirements":  [
+
+                                                 ],
+                         "teleportRequirements":  [
+
+                                                  ],
+                         "notes":  [
+                                       "Avoid the closed booth at 3091,3244."
+                                   ]
+                     },
+    "routeAnchors":  {
+                         "teleportDestination":  [
+
+                                                 ],
+                         "treeOrTargetAnchor":  [
+
+                                                ],
+                         "returnTargetAnchor":  [
+
+                                                ],
+                         "bankDoorTiles":  [
+                                               {
+                                                   "category":  "bankDoor",
+                                                   "label":  "door-side tile",
+                                                   "x":  3092,
+                                                   "y":  3246,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Approach tile just inside Draynor bank"
+                                               }
+                                           ],
+                         "bankInsideTiles":  [
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  3092,
+                                                     "y":  3246,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Draynor inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  3092,
+                                                     "y":  3245,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Draynor inside bank tile"
+                                                 }
+                                             ],
+                         "bankStandTile":  [
+                                               {
+                                                   "category":  "bankStand",
+                                                   "label":  "stand tile",
+                                                   "x":  3092,
+                                                   "y":  3245,
+                                                   "plane":  0,
+                                                   "id":  "",
+                                                   "actions":  [
+
+                                                               ],
+                                                   "notes":  "Preferred stand tile inside Draynor bank"
+                                               }
+                                           ],
+                         "bankObjectTile":  [
+                                                {
+                                                    "category":  "bankTarget",
+                                                    "label":  "bank booth",
+                                                    "x":  3091,
+                                                    "y":  3245,
+                                                    "plane":  0,
+                                                    "id":  10355,
+                                                    "actions":  [
+                                                                    "Bank"
+                                                                ],
+                                                    "notes":  "Closest confirmed Draynor booth to the door"
+                                                }
+                                            ],
+                         "safeStandTiles":  [
+
+                                            ]
+                     },
+    "resourceTargets":  {
+                            "names":  [
+                                          "Willow Tree"
+                                      ],
+                            "objectIds":  [
+                                              10819,
+                                              10829,
+                                              10831,
+                                              10838
+                                          ],
+                            "npcIds":  [
+
+                                       ],
+                            "groundItemIds":  [
+
+                                              ],
+                            "tiles":  [
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "willow 1",
+                                              "x":  3083,
+                                              "y":  3237,
+                                              "plane":  0,
+                                              "id":  10838,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Draynor willow"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "willow 2",
+                                              "x":  3085,
+                                              "y":  3235,
+                                              "plane":  0,
+                                              "id":  10829,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Draynor willow"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "willow 3",
+                                              "x":  3087,
+                                              "y":  3231,
+                                              "plane":  0,
+                                              "id":  10829,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Draynor willow"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "willow 4",
+                                              "x":  3088,
+                                              "y":  3227,
+                                              "plane":  0,
+                                              "id":  10831,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Draynor willow"
+                                          },
+                                          {
+                                              "category":  "resourceTile",
+                                              "label":  "willow 5",
+                                              "x":  3088,
+                                              "y":  3234,
+                                              "plane":  0,
+                                              "id":  10819,
+                                              "actions":  [
+                                                              "Chop down"
+                                                          ],
+                                              "notes":  "Draynor willow"
+                                          }
+                                      ]
+                        },
+    "bankTargets":  {
+                        "type":  "booth",
+                        "objectIds":  [
+                                          10355
+                                      ],
+                        "npcIds":  [
+
+                                   ],
+                        "actions":  [
+                                        "Bank"
+                                    ],
+                        "tiles":  [
+                                      {
+                                          "category":  "bankTarget",
+                                          "label":  "bank booth",
+                                          "x":  3091,
+                                          "y":  3245,
+                                          "plane":  0,
+                                          "id":  10355,
+                                          "actions":  [
+                                                          "Bank"
+                                                      ],
+                                          "notes":  "Closest confirmed Draynor booth to the door"
+                                      }
+                                  ]
+                    },
+    "pathChains":  {
+                       "toResource":  [
+
+                                      ],
+                       "toBank":  [
+
+                                  ],
+                       "returnToResource":  [
+
+                                            ],
+                       "alternatePaths":  [
+
+                                          ]
+                   },
+    "interactionTargets":  {
+                               "doors":  [
+
+                                         ],
+                               "gates":  [
+
+                                         ],
+                               "ladders":  [
+
+                                           ],
+                               "stairs":  [
+
+                                          ],
+                               "portals":  [
+
+                                           ],
+                               "obstacles":  [
+
+                                             ]
+                           },
+    "walkerHints":  {
+                        "preferredScanRadius":  16,
+                        "avoidTiles":  [
+
+                                       ],
+                        "blockedTileFlags":  [
+
+                                             ],
+                        "regionNotes":  [
+
+                                        ],
+                        "customServerWarnings":  [
+
+                                                 ]
+                    },
+    "loot":  {
+                 "defaultEnabled":  false,
+                 "suggestedItems":  [
+                                        "Bird nest"
+                                    ],
+                 "pickupStyle":  "immediate"
+             },
+    "sourceData":  {
+                       "importedMapperExports":  [
+
+                                                 ],
+                       "manualCaptureRows":  [
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "willow 1",
+                                                     "x":  3083,
+                                                     "y":  3237,
+                                                     "plane":  0,
+                                                     "id":  10838,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Draynor willow"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "willow 2",
+                                                     "x":  3085,
+                                                     "y":  3235,
+                                                     "plane":  0,
+                                                     "id":  10829,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Draynor willow"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "willow 3",
+                                                     "x":  3087,
+                                                     "y":  3231,
+                                                     "plane":  0,
+                                                     "id":  10829,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Draynor willow"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "willow 4",
+                                                     "x":  3088,
+                                                     "y":  3227,
+                                                     "plane":  0,
+                                                     "id":  10831,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Draynor willow"
+                                                 },
+                                                 {
+                                                     "category":  "resourceTile",
+                                                     "label":  "willow 5",
+                                                     "x":  3088,
+                                                     "y":  3234,
+                                                     "plane":  0,
+                                                     "id":  10819,
+                                                     "actions":  [
+                                                                     "Chop down"
+                                                                 ],
+                                                     "notes":  "Draynor willow"
+                                                 },
+                                                 {
+                                                     "category":  "bankDoor",
+                                                     "label":  "door-side tile",
+                                                     "x":  3092,
+                                                     "y":  3246,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Approach tile just inside Draynor bank"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 1",
+                                                     "x":  3092,
+                                                     "y":  3246,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Draynor inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankInside",
+                                                     "label":  "inside tile 2",
+                                                     "x":  3092,
+                                                     "y":  3245,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Draynor inside bank tile"
+                                                 },
+                                                 {
+                                                     "category":  "bankStand",
+                                                     "label":  "stand tile",
+                                                     "x":  3092,
+                                                     "y":  3245,
+                                                     "plane":  0,
+                                                     "id":  "",
+                                                     "actions":  [
+
+                                                                 ],
+                                                     "notes":  "Preferred stand tile inside Draynor bank"
+                                                 },
+                                                 {
+                                                     "category":  "bankTarget",
+                                                     "label":  "bank booth",
+                                                     "x":  3091,
+                                                     "y":  3245,
+                                                     "plane":  0,
+                                                     "id":  10355,
+                                                     "actions":  [
+                                                                     "Bank"
+                                                                 ],
+                                                     "notes":  "Closest confirmed Draynor booth to the door"
+                                                 }
+                                             ]
+                   },
+    "testStatus":  {
+                       "choppingOrInteraction":  "",
+                       "banking":  "",
+                       "powercutting":  "",
+                       "looting":  "",
+                       "knownIssues":  [
+
+                                       ],
+                       "nextFixes":  [
+
+                                     ]
+                   },
+    "paths":  {
+                  "routeRoot":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\draynor-willows",
+                  "capturesDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\draynor-willows\\captures",
+                  "exportsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\draynor-willows\\exports",
+                  "screenshotsDir":  "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\draynor-willows\\screenshots"
+              }
+}

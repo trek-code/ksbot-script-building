@@ -1,0 +1,89 @@
+State: NAVIGATE_TO_BANK
+Status: Navigating to bank
+Route: Yews in Seers village
+Tree: Yew Tree
+Mode: Bank
+Player Tile: WorldPoint(x=2721, y=3493, plane=0)
+Last Action: close bank for reposition
+Logs Cut: 6
+XP: 15471771
+Time Since Tree Click (ms): -
+Time Since Tree Gain (ms): -
+Time Since Move (ms): 30008
+Time In State (ms): 707
+Bank Path Index: 0
+Current Target Tree: -
+Last Bank Target: -
+Last Bank Candidates: 25808@WorldPoint(x=2721, y=3494, plane=0), 25808@WorldPoint(x=2722, y=3494, plane=0), 25808@WorldPoint(x=2724, y=3494, plane=0), 25808@WorldPoint(x=2727, y=3494, plane=0), 25808@WorldPoint(x=2729, y=3494, plane=0)
+Last Move Target: WorldPoint(x=2727, y=3492, plane=0)
+Last Path Destination: WorldPoint(x=2727, y=3492, plane=0)
+Last Path Length: 9
+Last Path Failure: -
+Minimap Zoom: 2.0
+Last Observed Tile: WorldPoint(x=2721, y=3493, plane=0)
+Time On Observed Tile (ms): 25287
+Repeated Move Target Count: 0
+Bank Stand Anchor: WorldPoint(x=2727, y=3492, plane=0)
+Bank Ready: false
+In Tree Area: false
+In Bank Area: false
+Inventory Full: true
+
+Event Log
+- 18:35:33 [START] Route=Yews in Seers village, mode=Bank
+- 18:35:33 [PATH] Minimap zoom 2.0 -> 2.0 for script start
+- 18:36:19 [STATE] NAVIGATE_TO_TREES -> CHOPPING
+- 18:36:34 [LOG] Gained 2 log(s).
+- 18:36:37 [LOG] Gained 1 log(s).
+- 18:36:37 [LOG] Gained 1 log(s).
+- 18:36:38 [LOG] Gained 2 log(s).
+- 18:36:38 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 18:36:38 [PATH] Minimap zoom 2.0 -> 2.0 for walking to bank
+- 18:36:38 [MOVE] walking to bank -> visible step WorldPoint(x=2727, y=3480, plane=0) (path length 17)
+- 18:36:39 [MOVE] walking to bank -> visible step WorldPoint(x=2727, y=3483, plane=0) (path length 17)
+- 18:36:40 [PATH] Minimap zoom 2.0 -> 2.0 for walking to bank
+- 18:36:40 [MOVE] walking to bank -> visible step WorldPoint(x=2727, y=3485, plane=0) (path length 16)
+- 18:36:41 [PATH] Minimap zoom 2.0 -> 2.0 for walking to bank
+- 18:36:42 [MOVE] walking to bank -> visible step WorldPoint(x=2728, y=3490, plane=0) (path length 13)
+- 18:36:43 [MOVE] walking to bank -> visible step WorldPoint(x=2727, y=3492, plane=0) (path length 11)
+- 18:36:44 [PATH] Minimap zoom 2.0 -> 2.0 for walking to bank
+- 18:36:44 [MOVE] walking to bank -> visible step WorldPoint(x=2727, y=3492, plane=0) (path length 9)
+- 18:36:45 [BANK] Opened bank via custom object ids [25808]
+- 18:36:45 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:46 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:36:47 [BANK] Opened bank via custom object ids [25808]
+- 18:36:47 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:48 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:36:49 [BANK] Opened bank via custom object ids [25808]
+- 18:36:49 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:50 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:36:51 [BANK] Opened bank via custom object ids [25808]
+- 18:36:51 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:53 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:36:54 [BANK] Opened bank via custom object ids [25808]
+- 18:36:54 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:55 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:36:56 [BANK] Opened bank via custom object ids [25808]
+- 18:36:56 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:57 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:36:58 [BANK] Opened bank via custom object ids [25808]
+- 18:36:58 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:36:59 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:37:01 [BANK] Opened bank via custom object ids [25808]
+- 18:37:01 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:37:02 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:37:03 [BANK] Opened bank via custom object ids [25808]
+- 18:37:03 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:37:04 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:37:05 [BANK] Opened bank via custom object ids [25808]
+- 18:37:05 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:37:06 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:37:07 [BANK] Opened bank via custom object ids [25808]
+- 18:37:07 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:37:09 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:37:10 [BANK] Opened bank via custom object ids [25808]
+- 18:37:10 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:37:11 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:37:12 [BANK] Opened bank via custom object ids [25808]
+- 18:37:12 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:37:13 [STATE] BANKING -> NAVIGATE_TO_BANK

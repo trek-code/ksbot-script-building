@@ -1,0 +1,42 @@
+State: BANKING
+Status: Banking
+Route: Varrock West Oaks
+Tree: Oak Tree
+Mode: Bank
+Player Tile: WorldPoint(x=3185, y=3436, plane=0)
+Last Action: bank click failed
+Logs Cut: 8
+XP: 13887693
+Time Since Tree Click (ms): -
+Time Since Tree Gain (ms): 35308
+Time Since Move (ms): 29095
+Time In State (ms): 28368
+Bank Path Index: 6
+Current Target Tree: -
+Last Bank Target: -
+Last Move Target: WorldPoint(x=3185, y=3436, plane=0)
+Last Path Destination: WorldPoint(x=3185, y=3436, plane=0)
+Last Path Length: 6
+Last Path Failure: -
+Minimap Zoom: 4.0
+Bank Stand Anchor: WorldPoint(x=3185, y=3436, plane=0)
+Bank Ready: true
+In Tree Area: false
+In Bank Area: true
+Inventory Full: true
+
+Event Log
+- 16:19:10 [START] Route=Varrock West Oaks, mode=Bank
+- 16:19:10 [STATE] NAVIGATE_TO_TREES -> CHOPPING
+- 16:19:12 [LOG] Gained 2 log(s).
+- 16:19:13 [LOG] Gained 2 log(s).
+- 16:19:14 [LOG] Gained 2 log(s).
+- 16:19:15 [STATE] CHOPPING -> NAVIGATE_TO_BANK
+- 16:19:15 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 9)
+- 16:19:16 [LOG] Gained 2 log(s).
+- 16:19:17 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 7)
+- 16:19:18 [MOVE] walking bank approach -> visible step WorldPoint(x=3183, y=3433, plane=0) (path length 6)
+- 16:19:19 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3433, plane=0)
+- 16:19:21 [MOVE] walking bank approach -> exact tile WorldPoint(x=3183, y=3435, plane=0)
+- 16:19:22 [MOVE] walking bank approach -> exact tile WorldPoint(x=3185, y=3436, plane=0)
+- 16:19:23 [STATE] NAVIGATE_TO_BANK -> BANKING

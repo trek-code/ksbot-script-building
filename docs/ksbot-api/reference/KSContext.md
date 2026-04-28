@@ -1,0 +1,88 @@
+﻿# rs.kreme.ksbot.api.KSContext
+
+Package: ``rs.kreme.ksbot.api``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.KSContext {
+  public rs.kreme.ksbot.api.hooks.AntiBan antiBan;
+  public rs.kreme.ksbot.api.game.Presets presets;
+  public rs.kreme.ksbot.api.hooks.Mouse mouse;
+  public rs.kreme.ksbot.api.hooks.Shop shop;
+  public rs.kreme.ksbot.api.game.Paint paint;
+  public static int[] IIIllIIliIIl;
+  public rs.kreme.ksbot.api.hooks.User user;
+  public rs.kreme.ksbot.api.hooks.Inventory inventory;
+  final int DEFAULT_POLLING_RATE;
+  public rs.kreme.ksbot.api.game.Pathing pathing;
+  public rs.kreme.ksbot.api.game.Prayer prayer;
+  public rs.kreme.ksbot.api.hooks.Trade trade;
+  public rs.kreme.ksbot.api.game.CrashReporter crashReporter;
+  public rs.kreme.ksbot.api.game.Combat combat;
+  public rs.kreme.ksbot.api.hooks.Keyboard keyboard;
+  public static final int TICK_MS;
+  public rs.kreme.ksbot.api.hooks.NPCs npcs;
+  public rs.kreme.ksbot.api.hooks.Players players;
+  public rs.kreme.ksbot.api.hooks.Tiles tiles;
+  protected static rs.kreme.ksbot.api.KSContext scriptInstance;
+  public rs.kreme.ksbot.api.hooks.Magic magic;
+  public rs.kreme.ksbot.api.hooks.Teleporter teleporter;
+  public rs.kreme.ksbot.api.game.Discord discord;
+  public rs.kreme.ksbot.api.game.Vars vars;
+  public rs.kreme.ksbot.api.hooks.GameObjects groundObjects;
+  public rs.kreme.ksbot.api.game.Consumables consumables;
+  public rs.kreme.ksbot.api.game.Lootable lootable;
+  public rs.kreme.ksbot.api.hooks.Widgets widgets;
+  public java.util.List<rs.kreme.ksbot.api.scripts.randoms.RandomEvent> randomEvents;
+  public rs.kreme.ksbot.api.hooks.Bank bank;
+  public rs.kreme.ksbot.api.hooks.GraphicsObjects graphicsObjects;
+  public rs.kreme.ksbot.api.game.Friends friends;
+  public rs.kreme.ksbot.api.game.Statistics statistics;
+  public rs.kreme.ksbot.api.game.Chat chat;
+  public rs.kreme.ksbot.api.game.Game game;
+  public rs.kreme.ksbot.bot.IliIlllilIi randomEventManager;
+  public rs.kreme.ksbot.api.hooks.widgets.Production production;
+  protected net.runelite.client.plugins.ksbot.panels.illIlIilIl loader;
+  public rs.kreme.ksbot.api.hooks.GroundItems groundItems;
+  public rs.kreme.ksbot.api.game.AutoReply reply;
+  public rs.kreme.ksbot.api.hooks.widgets.Dialog dialog;
+  public rs.kreme.ksbot.api.hooks.Skills skills;
+  public rs.kreme.ksbot.api.hooks.Equipment equipment;
+  public net.runelite.client.plugins.ksbot.bot.IliIlllilIi discordBot;
+  public boolean isScriptOnBreak();
+  public rs.kreme.ksbot.api.KSContext(java.lang.String);
+  public boolean sleepTicks(int);
+  public boolean sleep(int, int);
+  public boolean sleep(long);
+  public boolean sleepWhile(java.util.function.BooleanSupplier, int, int);
+  public boolean onProcess();
+  static {};
+  public static synchronized rs.kreme.ksbot.api.KSContext getInstance();
+  public boolean sleepWhile(java.util.function.BooleanSupplier, int);
+  public boolean sleepUntil(java.util.function.BooleanSupplier, int, int);
+  public boolean sleepUntil(java.util.function.BooleanSupplier, int);
+  public void stopScript();
+  public boolean sleepTicksUntil(java.util.function.BooleanSupplier, int);
+  public boolean sleepUntil(java.util.function.BooleanSupplier, java.util.function.BooleanSupplier, int);
+  public rs.kreme.ksbot.api.KSContext(rs.kreme.ksbot.api.hooks.User);
+  public boolean retry(java.lang.Runnable, java.util.function.BooleanSupplier, int, int);
+  public static void iliIiiliiiii();
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public boolean onCondition(java.util.function.BooleanSupplier, int, int);
+  public void sendLogout();
+  public void reportError(java.lang.Throwable);
+  public static void destroy();
+  public void setLoader(net.runelite.client.plugins.ksbot.panels.illIlIilIl);
+  public static void setScriptInstance(rs.kreme.ksbot.api.KSContext);
+  public void log(java.lang.Object, java.lang.Object...);
+  public net.runelite.client.plugins.ksbot.panels.illIlIilIl getLoader();
+  public void stopScript(java.lang.String);
+  public boolean sleepUntil(java.util.function.BooleanSupplier, java.util.function.BooleanSupplier, int, int);
+  public void init();
+  public boolean sleepTick();
+}
+```

@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "serverName": "{{SERVER_NAME}}",
+    "serverSlug": "{{SERVER_SLUG}}",
+    "botFamily": "{{BOT_FAMILY}}",
+    "botFamilySlug": "{{BOT_FAMILY_SLUG}}",
+    "routeName": "{{ROUTE_NAME}}",
+    "routeSlug": "{{ROUTE_SLUG}}",
+    "activityType": "{{ACTIVITY_TYPE}}",
+    "resourceType": "{{RESOURCE_TYPE}}",
+    "createdDate": "{{CREATED_DATE}}",
+    "status": "draft"
+  },
+  "requirements": {
+    "levelRequirement": "",
+    "itemRequirements": [],
+    "accountRequirements": [],
+    "teleportRequirements": [],
+    "notes": []
+  },
+  "routeAnchors": {
+    "teleportDestination": [],
+    "treeOrTargetAnchor": [],
+    "returnTargetAnchor": [],
+    "bankDoorTiles": [],
+    "bankInsideTiles": [],
+    "bankStandTile": [],
+    "bankObjectTile": [],
+    "safeStandTiles": []
+  },
+  "resourceTargets": {
+    "names": [],
+    "objectIds": [],
+    "npcIds": [],
+    "groundItemIds": [],
+    "tiles": []
+  },
+  "bankTargets": {
+    "type": "booth",
+    "objectIds": [],
+    "npcIds": [],
+    "actions": [],
+    "tiles": []
+  },
+  "pathChains": {
+    "toResource": [],
+    "toBank": [],
+    "returnToResource": [],
+    "alternatePaths": []
+  },
+  "interactionTargets": {
+    "doors": [],
+    "gates": [],
+    "ladders": [],
+    "stairs": [],
+    "portals": [],
+    "obstacles": []
+  },
+  "walkerHints": {
+    "preferredScanRadius": 16,
+    "avoidTiles": [],
+    "blockedTileFlags": [],
+    "regionNotes": [],
+    "customServerWarnings": []
+  },
+  "loot": {
+    "defaultEnabled": false,
+    "suggestedItems": [],
+    "pickupStyle": "immediate"
+  },
+  "sourceData": {
+    "importedMapperExports": [],
+    "manualCaptureRows": []
+  },
+  "testStatus": {
+    "choppingOrInteraction": "",
+    "banking": "",
+    "powercutting": "",
+    "looting": "",
+    "knownIssues": [],
+    "nextFixes": []
+  },
+  "paths": {
+    "routeRoot": "{{ROUTE_ROOT}}",
+    "capturesDir": "{{CAPTURES_DIR}}",
+    "exportsDir": "{{EXPORTS_DIR}}",
+    "screenshotsDir": "{{SCREENSHOTS_DIR}}"
+  }
+}

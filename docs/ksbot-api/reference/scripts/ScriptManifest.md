@@ -1,0 +1,23 @@
+﻿# rs.kreme.ksbot.api.scripts.ScriptManifest
+
+Package: ``rs.kreme.ksbot.api.scripts``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public interface rs.kreme.ksbot.api.scripts.ScriptManifest extends java.lang.annotation.Annotation {
+  public abstract java.lang.String description();
+  public abstract java.lang.String author();
+  public abstract rs.kreme.ksbot.api.scripts.Category category();
+  public abstract double version();
+  public abstract boolean vip();
+  public abstract java.lang.String image();
+  public abstract boolean sponsor();
+  public abstract java.lang.String name();
+  public abstract java.lang.String[] servers();
+  public abstract java.lang.String uid();
+}
+```

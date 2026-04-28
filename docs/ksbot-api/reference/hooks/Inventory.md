@@ -1,0 +1,35 @@
+﻿# rs.kreme.ksbot.api.hooks.Inventory
+
+Package: ``rs.kreme.ksbot.api.hooks``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.hooks.Inventory extends rs.kreme.ksbot.api.hooks.Items {
+  public static int[] IIIllIIliIIl;
+  public boolean useOn(java.lang.String, java.lang.String);
+  public static void iliIiiliiiii();
+  public void drop(java.util.List<java.lang.String>);
+  public void wear(java.lang.String...);
+  public void dropAllExcept(int...);
+  public void dropAllExcept(java.util.List<?>);
+  public void itemOnItem(rs.kreme.ksbot.api.wrappers.KSItem, rs.kreme.ksbot.api.wrappers.KSItem);
+  public boolean useItemOn(java.lang.String, java.lang.String);
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public void dropAll(int...);
+  public void dropAllExcept(java.lang.String...);
+  public boolean itemOnObject(rs.kreme.ksbot.api.wrappers.KSItem, rs.kreme.ksbot.api.wrappers.KSObject);
+  public void drop(java.lang.String...);
+  public void wear(java.util.List<?>);
+  public void drop(int...);
+  public void wear(int...);
+  public void dropAll(java.util.List<?>);
+  public rs.kreme.ksbot.api.hooks.Inventory(rs.kreme.ksbot.api.KSContext);
+  public boolean itemOnNpc(rs.kreme.ksbot.api.wrappers.KSItem, rs.kreme.ksbot.api.wrappers.KSNPC);
+  static {};
+  public void dropAll(java.lang.String...);
+}
+```

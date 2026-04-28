@@ -1,0 +1,47 @@
+State: NAVIGATE_TO_BANK
+Status: Navigating to bank
+Route: Catherby Oak Trees
+Tree: Oak Tree
+Mode: Bank
+Player Tile: WorldPoint(x=2807, y=3441, plane=0)
+Last Action: reposition bank stand
+Logs Cut: 0
+XP: 15677676
+Time Since Tree Click (ms): -
+Time Since Tree Gain (ms): -
+Time Since Move (ms): -
+Time In State (ms): 493
+Bank Path Index: 0
+Current Target Tree: -
+Last Bank Target: -
+Last Bank Candidates: 10355@WorldPoint(x=2807, y=3442, plane=0), 10355@WorldPoint(x=2809, y=3442, plane=0), 10355@WorldPoint(x=2811, y=3442, plane=0)
+Last Move Target: -
+Last Path Destination: -
+Last Path Length: -
+Last Path Failure: -
+Minimap Zoom: 2.0
+Last Observed Tile: WorldPoint(x=2807, y=3441, plane=0)
+Time On Observed Tile (ms): 8474
+Repeated Move Target Count: 0
+Bank Stand Anchor: WorldPoint(x=2809, y=3439, plane=0)
+Bank Ready: false
+In Tree Area: false
+In Bank Area: false
+Inventory Full: true
+
+Event Log
+- 18:59:22 [START] Route=Catherby Oak Trees, mode=Bank
+- 18:59:22 [PATH] Minimap zoom 2.0 -> 2.0 for script start
+- 18:59:22 [STATE] NAVIGATE_TO_TREES -> NAVIGATE_TO_BANK
+- 18:59:22 [BANK] Opened bank via custom object ids [10355]
+- 18:59:22 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:59:23 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:59:24 [BANK] Opened bank via custom object ids [10355]
+- 18:59:24 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:59:25 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:59:27 [BANK] Opened bank via custom object ids [10355]
+- 18:59:27 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:59:28 [STATE] BANKING -> NAVIGATE_TO_BANK
+- 18:59:29 [BANK] Opened bank via custom object ids [10355]
+- 18:59:29 [STATE] NAVIGATE_TO_BANK -> BANKING
+- 18:59:30 [STATE] BANKING -> NAVIGATE_TO_BANK

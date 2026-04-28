@@ -1,0 +1,46 @@
+﻿# rs.kreme.ksbot.api.wrappers.KSNPC
+
+Package: ``rs.kreme.ksbot.api.wrappers``
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Public Signature Dump
+
+```text
+public class rs.kreme.ksbot.api.wrappers.KSNPC implements rs.kreme.ksbot.api.interfaces.Animatable,rs.kreme.ksbot.api.interfaces.Interactable,rs.kreme.ksbot.api.interfaces.Identifiable,rs.kreme.ksbot.api.interfaces.Locatable {
+  public static int[] IIIllIIliIIl;
+  public int getIndex();
+  static {};
+  public void interact(int);
+  public net.runelite.api.coords.WorldArea getWorldArea();
+  public void interact(int, net.runelite.api.MenuAction, int, int);
+  public java.lang.String[] getActions();
+  public net.runelite.api.NPC getNpc();
+  public void interact(int, net.runelite.api.MenuAction);
+  public int getHealthPercentage();
+  public java.lang.String toString();
+  public java.awt.geom.Rectangle2D getClickBounds();
+  public boolean isAnimating();
+  public static void iliIiiliiiii();
+  public net.runelite.api.coords.WorldPoint getWorldLocation();
+  public net.runelite.api.NPCComposition getComp();
+  public net.runelite.api.Actor getInteracting();
+  public int getAnimation();
+  public java.lang.String getName();
+  public boolean isDead();
+  public boolean isAlive();
+  public int getId();
+  public boolean isInteractingWithLocal();
+  public rs.kreme.ksbot.api.wrappers.KSNPC(net.runelite.api.NPC);
+  public net.runelite.api.HeadIcon getHeadIcon();
+  public static java.lang.Object IliIlllilIi(java.lang.Object[]);
+  public boolean canReach();
+  public int getHealthRatio();
+  public void interact(net.runelite.api.MenuAction);
+  public boolean interact(java.lang.String...);
+  public boolean interact(java.lang.String);
+  public int getCombatLevel();
+  public int getHealth();
+}
+```

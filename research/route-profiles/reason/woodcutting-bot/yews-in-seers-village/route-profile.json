@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "serverName": "Reason",
+    "serverSlug": "reason",
+    "botFamily": "woodcutting-bot",
+    "botFamilySlug": "woodcutting-bot",
+    "routeName": "Yews in Seers village",
+    "routeSlug": "yews-in-seers-village",
+    "activityType": "woodcutting",
+    "resourceType": "Yew tree",
+    "createdDate": "2026-04-12",
+    "status": "draft"
+  },
+  "requirements": {
+    "levelRequirement": "",
+    "itemRequirements": [],
+    "accountRequirements": [],
+    "teleportRequirements": [],
+    "notes": []
+  },
+  "routeAnchors": {
+    "teleportDestination": [],
+    "treeOrTargetAnchor": [],
+    "returnTargetAnchor": [
+      {
+        "category": "returnTarget",
+        "label": "closest tree from bank side",
+        "x": 2714,
+        "y": 3459,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Prefer closest tree from bank side when returning."
+      }
+    ],
+    "bankDoorTiles": [],
+    "bankInsideTiles": [
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 2726,
+        "y": 3489,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Shared Seers inside bank tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 2",
+        "x": 2727,
+        "y": 3491,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Shared Seers inside bank tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 3",
+        "x": 2727,
+        "y": 3492,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Shared Seers inside bank tile"
+      }
+    ],
+    "bankStandTile": [],
+    "bankObjectTile": [],
+    "safeStandTiles": []
+  },
+  "resourceTargets": {
+    "names": [
+      "Yew tree"
+    ],
+    "objectIds": [
+      10822
+    ],
+    "npcIds": [],
+    "groundItemIds": [],
+    "tiles": [
+      {
+        "category": "resourceTile",
+        "label": "yew tree 1",
+        "x": 2714,
+        "y": 3459,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Bank-side preferred yew tree."
+      },
+      {
+        "category": "resourceTile",
+        "label": "yew tree 2",
+        "x": 2705,
+        "y": 3458,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Seers village yew tree."
+      },
+      {
+        "category": "resourceTile",
+        "label": "yew tree 3",
+        "x": 2705,
+        "y": 3464,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Seers village yew tree."
+      }
+    ]
+  },
+  "bankTargets": {
+    "type": "booth",
+    "objectIds": [
+      25808
+    ],
+    "npcIds": [],
+    "actions": [
+      "Bank"
+    ],
+    "tiles": [
+      {
+        "category": "bankTarget",
+        "label": "Bank booth",
+        "x": 2727,
+        "y": 3494,
+        "plane": 0,
+        "id": 25808,
+        "actions": [
+          "Bank"
+        ],
+        "notes": "Shared Seers bank booth."
+      }
+    ]
+  },
+  "pathChains": {
+    "toResource": [],
+    "toBank": [],
+    "returnToResource": [],
+    "alternatePaths": []
+  },
+  "interactionTargets": {
+    "doors": [],
+    "gates": [],
+    "ladders": [],
+    "stairs": [],
+    "portals": [],
+    "obstacles": [
+      {
+        "category": "obstacle",
+        "label": "dead trees in area",
+        "x": "",
+        "y": "",
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Choppable dead trees nearby; avoid confusing them with yew targets."
+      }
+    ]
+  },
+  "walkerHints": {
+    "preferredScanRadius": 16,
+    "avoidTiles": [],
+    "blockedTileFlags": [],
+    "regionNotes": [
+      "Use the same Seers bank approach as Seers Village Maples."
+    ],
+    "customServerWarnings": []
+  },
+  "loot": {
+    "defaultEnabled": false,
+    "suggestedItems": [],
+    "pickupStyle": "immediate"
+  },
+  "sourceData": {
+    "importedMapperExports": [],
+    "manualCaptureRows": [
+      {
+        "category": "resourceTile",
+        "label": "yew tree 1",
+        "x": 2714,
+        "y": 3459,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Bank-side preferred yew tree."
+      },
+      {
+        "category": "resourceTile",
+        "label": "yew tree 2",
+        "x": 2705,
+        "y": 3458,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Seers village yew tree."
+      },
+      {
+        "category": "resourceTile",
+        "label": "yew tree 3",
+        "x": 2705,
+        "y": 3464,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Seers village yew tree."
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 2726,
+        "y": 3489,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Shared Seers inside bank tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 2",
+        "x": 2727,
+        "y": 3491,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Shared Seers inside bank tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 3",
+        "x": 2727,
+        "y": 3492,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Shared Seers inside bank tile"
+      },
+      {
+        "category": "bankTarget",
+        "label": "Bank booth",
+        "x": 2727,
+        "y": 3494,
+        "plane": 0,
+        "id": 25808,
+        "actions": [
+          "Bank"
+        ],
+        "notes": "Shared Seers bank booth."
+      },
+      {
+        "category": "returnTarget",
+        "label": "closest tree from bank side",
+        "x": 2714,
+        "y": 3459,
+        "plane": 0,
+        "id": 10822,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Prefer closest tree from bank side when returning."
+      }
+    ]
+  },
+  "testStatus": {
+    "choppingOrInteraction": "",
+    "banking": "",
+    "powercutting": "",
+    "looting": "",
+    "knownIssues": [],
+    "nextFixes": []
+  },
+  "paths": {
+    "routeRoot": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\yews-in-seers-village",
+    "capturesDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\yews-in-seers-village\\captures",
+    "exportsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\yews-in-seers-village\\exports",
+    "screenshotsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\yews-in-seers-village\\screenshots"
+  }
+}

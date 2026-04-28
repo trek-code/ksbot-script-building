@@ -1,0 +1,9431 @@
+{
+  "sessionName": "reason-edgeville-scan",
+  "zoneName": "::home",
+  "createdAt": "2026-04-12T22:24:09.793062300Z",
+  "summary": {
+    "anchorCount": 1,
+    "waypointCount": 0,
+    "objectCount": 834,
+    "namedObjectCount": 834,
+    "actionableObjectCount": 55,
+    "obstacleObjectCount": 181,
+    "npcCount": 42,
+    "actionableNpcCount": 40,
+    "blockedTileCount": 251
+  },
+  "anchors": [
+    {
+      "label": "survey-center",
+      "x": 3096,
+      "y": 3495,
+      "plane": 0
+    }
+  ],
+  "waypoints": [
+
+  ],
+  "objects": [
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3080,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3080,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3080,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3080,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "x": 3080,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3080,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3080,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3080,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3080,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "x": 3080,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3080,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3080,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3080,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3080,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "x": 3080,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3081,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 4373,
+      "x": 3081,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3081,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3081,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3081,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3081,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3081,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3081,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3081,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "x": 3081,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Table",
+      "id": 24025,
+      "x": 3081,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Dragon's head",
+      "id": 15565,
+      "x": 3081,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3081,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3082,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Portal Nexus",
+      "id": 33410,
+      "x": 3082,
+      "y": 3495,
+      "plane": 0,
+      "actions": ["Teleport", "Teleport Menu", "Configuration", "Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3082,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3082,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3082,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "x": 3082,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "x": 3082,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3082,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "x": 3082,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "x": 3082,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "x": 3082,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Chair",
+      "id": 24103,
+      "x": 3082,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3082,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Daisies",
+      "id": 1189,
+      "x": 3083,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3083,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3083,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3083,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3083,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3083,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3083,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3083,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3083,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3083,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3083,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "x": 3083,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "x": 3083,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "x": 3083,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "x": 3083,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3083,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Rack",
+      "id": 24000,
+      "x": 3083,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3084,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3084,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3084,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3084,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3084,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3084,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3084,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3084,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3084,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3084,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3084,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 4738,
+      "x": 3084,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "x": 3084,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "x": 3084,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "x": 3084,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 4737,
+      "x": 3084,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 994,
+      "x": 3084,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5534,
+      "x": 3084,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3084,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3084,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3084,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3085,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "x": 3085,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3085,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3085,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3085,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3085,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30600,
+      "x": 3085,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3085,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3085,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3085,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3085,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bush",
+      "id": 50097,
+      "x": 3085,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Portal",
+      "id": 15478,
+      "x": 3087,
+      "y": 3511,
+      "plane": 0,
+      "actions": ["Enter", "Home", "Build mode", "Friend's house"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3086,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3086,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3086,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3086,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3086,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Ornate pool of Rejuvenation",
+      "id": 29241,
+      "x": 3086,
+      "y": 3503,
+      "plane": 0,
+      "actions": ["Drink", "Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3087,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3087,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3087,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Trading Post",
+      "id": 46240,
+      "x": 3088,
+      "y": 3487,
+      "plane": 0,
+      "actions": ["View-Offers", "Search-item", "Collect Items", "Collect Coins"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Upgrade Station",
+      "id": 46241,
+      "x": 3088,
+      "y": 3489,
+      "plane": 0,
+      "actions": ["Operate"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Item Workbench",
+      "id": 53226,
+      "x": 3088,
+      "y": 3491,
+      "plane": 0,
+      "actions": ["Upgrade", "Item-breaking"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3088,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3088,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3089,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Daisies",
+      "id": 1189,
+      "x": 3089,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3089,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3089,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3089,
+      "y": 3482,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "x": 3089,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "x": 3089,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3089,
+      "y": 3487,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "x": 3089,
+      "y": 3488,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "x": 3089,
+      "y": 3491,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3089,
+      "y": 3492,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "x": 3089,
+      "y": 3493,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "x": 3089,
+      "y": 3497,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3089,
+      "y": 3498,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3089,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3089,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3089,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3090,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3090,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bench",
+      "id": 5615,
+      "x": 3090,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3090,
+      "y": 3482,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "x": 3090,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "x": 3090,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3090,
+      "y": 3487,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3090,
+      "y": 3492,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Trading Post",
+      "id": 46240,
+      "x": 3090,
+      "y": 3496,
+      "plane": 0,
+      "actions": ["View-Offers", "Search-item", "Collect Items", "Collect Coins"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3090,
+      "y": 3498,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3090,
+      "y": 3499,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3090,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3090,
+      "y": 3500,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3090,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3090,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3090,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3090,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3090,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13710,
+      "x": 3090,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "x": 3090,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3090,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3091,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3091,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3091,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 6251,
+      "x": 3091,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3091,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6251,
+      "x": 3091,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "x": 3091,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3091,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3091,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3091,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3091,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3091,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3091,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3091,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Statue",
+      "id": 13278,
+      "x": 3091,
+      "y": 3506,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3091,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "x": 3091,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Sword case",
+      "id": 2997,
+      "x": 3091,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Singing bowl",
+      "id": 36552,
+      "x": 3091,
+      "y": 3510,
+      "plane": 0,
+      "actions": ["Sing-crystal"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3092,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Plant",
+      "id": 1394,
+      "x": 3092,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3092,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3092,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Leaflets",
+      "id": 1767,
+      "x": 3092,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3092,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3092,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3092,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "x": 3092,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3092,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3092,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3092,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3092,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3092,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3092,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3092,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3092,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3092,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "x": 3092,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33467,
+      "x": 3092,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3092,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3092,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3092,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "GIM Portal",
+      "id": 42820,
+      "x": 3094,
+      "y": 3479,
+      "plane": 0,
+      "actions": ["Enter"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3093,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3093,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3093,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3093,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6253,
+      "x": 3093,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3093,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "x": 3093,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3093,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3093,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3093,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3093,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3093,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3093,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3093,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3093,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3093,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "x": 3093,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3093,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3093,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3093,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3093,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "x": 3094,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Plant",
+      "id": 1394,
+      "x": 3094,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13710,
+      "x": 3094,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3094,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3094,
+      "y": 3481,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Window",
+      "id": 3362,
+      "x": 3094,
+      "y": 3482,
+      "plane": 0,
+      "actions": ["Search"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6251,
+      "x": 3094,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6252,
+      "x": 3094,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6251,
+      "x": 3094,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "x": 3094,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3094,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3094,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3094,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3094,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3094,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 30599,
+      "x": 3094,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3094,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Statue",
+      "id": 13278,
+      "x": 3094,
+      "y": 3506,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3094,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "x": 3094,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Display case",
+      "id": 24654,
+      "x": 3094,
+      "y": 3507,
+      "plane": 0,
+      "actions": ["Study"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3094,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3094,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3094,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3094,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "x": 3095,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3095,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3095,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3095,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3095,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3095,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3095,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3095,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3095,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank table",
+      "id": 6081,
+      "x": 3095,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Noticeboard",
+      "id": 962,
+      "x": 3095,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3095,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13713,
+      "x": 3095,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "x": 3095,
+      "y": 3500,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3095,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3095,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3095,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3095,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3095,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Chaos altar",
+      "id": 411,
+      "x": 3095,
+      "y": 3506,
+      "plane": 0,
+      "actions": ["Pray-at"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3095,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "x": 3095,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "x": 3095,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Sword case",
+      "id": 2978,
+      "x": 3095,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3095,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3095,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3095,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3095,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Plant",
+      "id": 1394,
+      "x": 3096,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Fern",
+      "id": 1298,
+      "x": 3096,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3096,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3096,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3482,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3484,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3486,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3488,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3490,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3492,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Bank booth",
+      "id": 32666,
+      "x": 3096,
+      "y": 3494,
+      "plane": 0,
+      "actions": ["Bank", "Collect", "Presets", "Load last preset"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3096,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3096,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3096,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3096,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3096,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3096,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3096,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3096,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3097,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3097,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 2738,
+      "x": 3097,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 2738,
+      "x": 3097,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 32668,
+      "x": 3097,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "x": 3097,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "x": 3097,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3097,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3097,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3097,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Display case",
+      "id": 24650,
+      "x": 3097,
+      "y": 3507,
+      "plane": 0,
+      "actions": ["Study"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3097,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3097,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3097,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3097,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3098,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "x": 3098,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "x": 3098,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "x": 3098,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5087,
+      "x": 3098,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "x": 3098,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "x": 3098,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5087,
+      "x": 3098,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "x": 3098,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "x": 3098,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 7050,
+      "x": 3098,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "x": 3098,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "x": 3098,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5087,
+      "x": 3098,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "x": 3098,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5088,
+      "x": 3098,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "x": 3098,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 5089,
+      "x": 3098,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3098,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Square shield",
+      "id": 13777,
+      "x": 3098,
+      "y": 3495,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "x": 3098,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3098,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3098,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3098,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bank light",
+      "id": 28552,
+      "x": 3098,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3098,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3098,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Altar of the Occult",
+      "id": 31861,
+      "x": 3098,
+      "y": 3505,
+      "plane": 0,
+      "actions": ["Venerate", "Standard", "Ancient", "Lunar", "Arceuus"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3098,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3098,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Hidden Statue",
+      "id": 32632,
+      "x": 3098,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3098,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3098,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3098,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33462,
+      "x": 3098,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Plant",
+      "id": 1394,
+      "x": 3099,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bush",
+      "id": 1123,
+      "x": 3099,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 6817,
+      "x": 3099,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "x": 3099,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 29495,
+      "x": 3099,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 14097,
+      "x": 3099,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "x": 3099,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3099,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3099,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3099,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3099,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3099,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3099,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3099,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3099,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3099,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 33467,
+      "x": 3099,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3099,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3099,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 33465,
+      "x": 3099,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "x": 3100,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 14098,
+      "x": 3100,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 14099,
+      "x": 3100,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3100,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3100,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3100,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3100,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3100,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3100,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1245,
+      "x": 3100,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3100,
+      "y": 3503,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3100,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3100,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3100,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "x": 3100,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Barrel",
+      "id": 2137,
+      "x": 3100,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Elven Crystal Chest",
+      "id": 36582,
+      "x": 3100,
+      "y": 3508,
+      "plane": 0,
+      "actions": ["Open", "Check"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Slayer chest",
+      "id": 46243,
+      "x": 3100,
+      "y": 3509,
+      "plane": 0,
+      "actions": ["Open", "Check"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Shelf",
+      "id": 1019,
+      "x": 3100,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Closed chest",
+      "id": 172,
+      "x": 3100,
+      "y": 3511,
+      "plane": 0,
+      "actions": ["Open"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3101,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3101,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3101,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3101,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3101,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3101,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3101,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3101,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3101,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3101,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3101,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3101,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3101,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3101,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3101,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Flowers",
+      "id": 16729,
+      "x": 3101,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3101,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3101,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3101,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1245,
+      "x": 3101,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3101,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3101,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 320,
+      "x": 3102,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 320,
+      "x": 3102,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 320,
+      "x": 3102,
+      "y": 3483,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Fern",
+      "id": 1299,
+      "x": 3102,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3102,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3102,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3102,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3102,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3102,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3102,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3102,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Fern",
+      "id": 1300,
+      "x": 3102,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3102,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3102,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 321,
+      "x": 3103,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 320,
+      "x": 3103,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3103,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3103,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3103,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3103,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3103,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13711,
+      "x": 3103,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3103,
+      "y": 3504,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3103,
+      "y": 3505,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3103,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3103,
+      "y": 3507,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Magic tree",
+      "id": 10834,
+      "x": 3103,
+      "y": 3508,
+      "plane": 0,
+      "actions": ["Chop down"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3103,
+      "y": 3510,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3103,
+      "y": 3511,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Fern",
+      "id": 1299,
+      "x": 3104,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1246,
+      "x": 3104,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13709,
+      "x": 3104,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "x": 3104,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "x": 3104,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "x": 3104,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3104,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 13705,
+      "x": 3104,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Bush",
+      "id": 1124,
+      "x": 3104,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13708,
+      "x": 3104,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Lantern",
+      "id": 10307,
+      "x": 3104,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Statue of Dhamaroc",
+      "id": 61003,
+      "x": 3104,
+      "y": 3500,
+      "plane": 0,
+      "actions": ["Touch statue", "Boss Kill Counts"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 13710,
+      "x": 3104,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3104,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Fern",
+      "id": 1300,
+      "x": 3105,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3105,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Blacksmiths' tools",
+      "id": 11876,
+      "x": 3105,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1514,
+      "x": 3105,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1515,
+      "x": 3105,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Range",
+      "id": 26181,
+      "x": 3105,
+      "y": 3499,
+      "plane": 0,
+      "actions": ["Cook"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Fishing net",
+      "id": 969,
+      "x": 3105,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Fishing net",
+      "id": 969,
+      "x": 3105,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Shark head",
+      "id": 18230,
+      "x": 3105,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Fishing net",
+      "id": 969,
+      "x": 3105,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3105,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Yew tree",
+      "id": 10822,
+      "x": 3106,
+      "y": 3504,
+      "plane": 0,
+      "actions": ["Chop down"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Mole hill",
+      "id": 12202,
+      "x": 3105,
+      "y": 3506,
+      "plane": 0,
+      "actions": ["Look-inside"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3106,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3106,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3106,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1838,
+      "x": 3106,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3106,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1838,
+      "x": 3106,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 2767,
+      "x": 3106,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 16393,
+      "x": 3107,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3488,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3107,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3107,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3107,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1838,
+      "x": 3107,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1838,
+      "x": 3107,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3107,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Daisies",
+      "id": 1189,
+      "x": 3107,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3108,
+      "y": 3489,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3108,
+      "y": 3490,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3108,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3108,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3108,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 24010,
+      "x": 3108,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 24012,
+      "x": 3108,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 24011,
+      "x": 3108,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Work bench",
+      "id": 24170,
+      "x": 3108,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Karamja painting",
+      "id": 13516,
+      "x": 3108,
+      "y": 3501,
+      "plane": 0,
+      "actions": ["Remove"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3108,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3109,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3109,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3109,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3109,
+      "y": 3491,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3109,
+      "y": 3492,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3109,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3109,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3109,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3109,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Furnace",
+      "id": 24009,
+      "x": 3109,
+      "y": 3497,
+      "plane": 0,
+      "actions": ["Smelt"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Anvil",
+      "id": 6150,
+      "x": 3109,
+      "y": 3499,
+      "plane": 0,
+      "actions": ["Smith"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3109,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3109,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Magic tree",
+      "id": 10834,
+      "x": 3109,
+      "y": 3510,
+      "plane": 0,
+      "actions": ["Chop down"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3480,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3481,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3482,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3484,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3110,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3110,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Blacksmiths' tools",
+      "id": 11876,
+      "x": 3110,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Grandfather Clock",
+      "id": 683,
+      "x": 3110,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3110,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Yew tree",
+      "id": 10822,
+      "x": 3111,
+      "y": 3504,
+      "plane": 0,
+      "actions": ["Chop down"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Flax",
+      "id": 14896,
+      "x": 3110,
+      "y": 3509,
+      "plane": 0,
+      "actions": ["Pick"],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3479,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Willow tree",
+      "id": 10819,
+      "x": 3111,
+      "y": 3487,
+      "plane": 0,
+      "actions": ["Chop down"],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Fern",
+      "id": 1300,
+      "x": 3111,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3111,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3111,
+      "y": 3496,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 2742,
+      "x": 3111,
+      "y": 3497,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3111,
+      "y": 3498,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3499,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Fern",
+      "id": 1299,
+      "x": 3111,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3500,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3501,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 23733,
+      "x": 3111,
+      "y": 3502,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3111,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3112,
+      "y": 3485,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3112,
+      "y": 3486,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3112,
+      "y": 3487,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1259,
+      "x": 3112,
+      "y": 3493,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1258,
+      "x": 3112,
+      "y": 3494,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3112,
+      "y": 3495,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Unknown",
+      "id": 1247,
+      "x": 3112,
+      "y": 3506,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    },
+    {
+      "name": "Tree stump",
+      "id": 1341,
+      "x": 3112,
+      "y": 3508,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": true
+    },
+    {
+      "name": "Unknown",
+      "id": 1257,
+      "x": 3112,
+      "y": 3509,
+      "plane": 0,
+      "actions": [],
+      "obstacleCandidate": false
+    }
+  ],
+  "npcs": [
+    {
+      "name": "Honour guard",
+      "id": 1891,
+      "index": 29696,
+      "x": 3095,
+      "y": 3493,
+      "plane": 0,
+      "actions": ["Talk-to"]
+    },
+    {
+      "name": "Krystilia",
+      "id": 7663,
+      "index": 6,
+      "x": 3100,
+      "y": 3510,
+      "plane": 0,
+      "actions": ["Talk-to", "Assignment", "Trade", "Rewards"]
+    },
+    {
+      "name": "Nomad",
+      "id": 10529,
+      "index": 7,
+      "x": 3099,
+      "y": 3507,
+      "plane": 0,
+      "actions": ["Talk-to", "Assignment", "Trade", "Rewards"]
+    },
+    {
+      "name": "Estate agent",
+      "id": 3097,
+      "index": 8,
+      "x": 3085,
+      "y": 3509,
+      "plane": 0,
+      "actions": ["Talk-to", "Relocate", "Redecorate"]
+    },
+    {
+      "name": "Demon butler",
+      "id": 229,
+      "index": 9,
+      "x": 3086,
+      "y": 3509,
+      "plane": 0,
+      "actions": ["Talk-to"]
+    },
+    {
+      "name": "Sawmill operator",
+      "id": 3101,
+      "index": 10,
+      "x": 3084,
+      "y": 3509,
+      "plane": 0,
+      "actions": ["Talk-to", "Buy-plank", "Trade"]
+    },
+    {
+      "name": "Dusuri's Stardust",
+      "id": 10631,
+      "index": 15,
+      "x": 3089,
+      "y": 3498,
+      "plane": 0,
+      "actions": ["Trade"]
+    },
+    {
+      "name": "Otto Godblessed",
+      "id": 2914,
+      "index": 18,
+      "x": 3089,
+      "y": 3497,
+      "plane": 0,
+      "actions": ["Talk-to"]
+    },
+    {
+      "name": "Apothecary Gary",
+      "id": 8532,
+      "index": 20,
+      "x": 3082,
+      "y": 3510,
+      "plane": 0,
+      "actions": ["Trade"]
+    },
+    {
+      "name": "Bob's Skilling Supplies",
+      "id": 10619,
+      "index": 24,
+      "x": 3081,
+      "y": 3510,
+      "plane": 0,
+      "actions": ["Trade"]
+    },
+    {
+      "name": "Grace",
+      "id": 5919,
+      "index": 26,
+      "x": 3083,
+      "y": 3505,
+      "plane": 0,
+      "actions": ["Talk-to", "Trade", "View Laps", "Recolor"]
+    },
+    {
+      "name": "Banker",
+      "id": 2897,
+      "index": 27,
+      "x": 3097,
+      "y": 3494,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Banker",
+      "id": 2898,
+      "index": 28,
+      "x": 3097,
+      "y": 3492,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Banker",
+      "id": 2897,
+      "index": 29,
+      "x": 3097,
+      "y": 3490,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Banker",
+      "id": 2898,
+      "index": 30,
+      "x": 3097,
+      "y": 3488,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Banker",
+      "id": 2897,
+      "index": 31,
+      "x": 3097,
+      "y": 3486,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Banker",
+      "id": 2898,
+      "index": 32,
+      "x": 3097,
+      "y": 3484,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Banker",
+      "id": 2897,
+      "index": 33,
+      "x": 3097,
+      "y": 3482,
+      "plane": 0,
+      "actions": ["Talk-to", "Bank", "Collect"]
+    },
+    {
+      "name": "Tanner Hydes",
+      "id": 3231,
+      "index": 38,
+      "x": 3090,
+      "y": 3492,
+      "plane": 0,
+      "actions": ["Talk-to", "Tan"]
+    },
+    {
+      "name": "Zahur the Herbalist",
+      "id": 4753,
+      "index": 39,
+      "x": 3090,
+      "y": 3496,
+      "plane": 0,
+      "actions": ["Talk-to", "Decant", "Clean", "Make unfinished potion(s)"]
+    },
+    {
+      "name": "Emblem Trader",
+      "id": 308,
+      "index": 42,
+      "x": 3096,
+      "y": 3503,
+      "plane": 0,
+      "actions": ["Talk-to", "Rewards", "Skull"]
+    },
+    {
+      "name": "Perk Master",
+      "id": 7958,
+      "index": 43,
+      "x": 3093,
+      "y": 3503,
+      "plane": 0,
+      "actions": ["Talk-to", "Exchange", "Get-task"]
+    },
+    {
+      "name": "Ghommal",
+      "id": 13613,
+      "index": 44,
+      "x": 3090,
+      "y": 3503,
+      "plane": 0,
+      "actions": ["Talk-to"]
+    },
+    {
+      "name": "<col=00ffff>Combat dummy</col>",
+      "id": 2668,
+      "index": 46,
+      "x": 3089,
+      "y": 3495,
+      "plane": 0,
+      "actions": ["Attack", "Configure"]
+    },
+    {
+      "name": "<col=00ffff>Undead slayer combat dummy</col>",
+      "id": 10507,
+      "index": 47,
+      "x": 3089,
+      "y": 3494,
+      "plane": 0,
+      "actions": ["Attack", "Configure"]
+    },
+    {
+      "name": "Difficulty Changer",
+      "id": 5792,
+      "index": 48,
+      "x": 3093,
+      "y": 3482,
+      "plane": 0,
+      "actions": ["Talk-to"]
+    },
+    {
+      "name": "Makeover Mage",
+      "id": 1307,
+      "index": 50,
+      "x": 3081,
+      "y": 3507,
+      "plane": 0,
+      "actions": ["Talk-to", "Makeover"]
+    },
+    {
+      "name": "Dagannoth Prime Jr. (Shiny)",
+      "id": 17048,
+      "index": 28853,
+      "x": 3094,
+      "y": 3484,
+      "plane": 0,
+      "actions": ["Talk-to", "Metamorphosis", "Pick-up"]
+    },
+    {
+      "name": "Perdu's Repairs",
+      "id": 7456,
+      "index": 54,
+      "x": 3089,
+      "y": 3499,
+      "plane": 0,
+      "actions": ["Talk-to", "Coffer"]
+    },
+    {
+      "name": "Minion",
+      "id": 17204,
+      "index": 13113,
+      "x": 3086,
+      "y": 3496,
+      "plane": 0,
+      "actions": ["Attack"]
+    },
+    {
+      "name": "Unknown",
+      "id": -1,
+      "index": 29756,
+      "x": 3093,
+      "y": 3492,
+      "plane": 0,
+      "actions": []
+    },
+    {
+      "name": "Guardian",
+      "id": 17034,
+      "index": 29506,
+      "x": 3082,
+      "y": 3492,
+      "plane": 0,
+      "actions": []
+    },
+    {
+      "name": "Corrupted Youngllef",
+      "id": 8738,
+      "index": 29636,
+      "x": 3088,
+      "y": 3495,
+      "plane": 0,
+      "actions": ["Talk-to", "Metamorphosis", "Pick-up"]
+    },
+    {
+      "name": "Bloodhound",
+      "id": 7232,
+      "index": 28749,
+      "x": 3085,
+      "y": 3486,
+      "plane": 0,
+      "actions": ["Talk-to", "Pick-up"]
+    },
+    {
+      "name": "Minion",
+      "id": 17204,
+      "index": 23636,
+      "x": 3095,
+      "y": 3494,
+      "plane": 0,
+      "actions": ["Attack"]
+    },
+    {
+      "name": "Corporeal Critter (Shiny)",
+      "id": 17052,
+      "index": 28508,
+      "x": 3087,
+      "y": 3489,
+      "plane": 0,
+      "actions": ["Talk-to", "Pick-up", "Metamorphosis"]
+    },
+    {
+      "name": "Kree'arra Jr.",
+      "id": 6631,
+      "index": 19943,
+      "x": 3086,
+      "y": 3496,
+      "plane": 0,
+      "actions": ["Talk-to", "Pick-up"]
+    },
+    {
+      "name": "Rocky",
+      "id": 7353,
+      "index": 23790,
+      "x": 3093,
+      "y": 3507,
+      "plane": 0,
+      "actions": ["Talk-to", "Pick-up"]
+    },
+    {
+      "name": "Lil'viathan",
+      "id": 12160,
+      "index": 20087,
+      "x": 3094,
+      "y": 3494,
+      "plane": 0,
+      "actions": ["Talk-to", "Pick-up"]
+    },
+    {
+      "name": "Wandering Merchant",
+      "id": 8897,
+      "index": 18169,
+      "x": 3082,
+      "y": 3503,
+      "plane": 0,
+      "actions": ["Talk-to", "Trade", "Flip-coin", "Sell"]
+    },
+    {
+      "name": "Rift guardian",
+      "id": 8028,
+      "index": 27515,
+      "x": 3095,
+      "y": 3493,
+      "plane": 0,
+      "actions": ["Talk-to", "Pick-up", "Locking"]
+    },
+    {
+      "name": "Spring Elemental",
+      "id": 2963,
+      "index": 19454,
+      "x": 3101,
+      "y": 3490,
+      "plane": 0,
+      "actions": ["Talk", "Open-store", "Teleport", "Active-bosses"]
+    }
+  ],
+  "blockedTiles": [
+    {
+      "x": 3081,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3081,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3081,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3081,
+      "y": 3509,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3082,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3495,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3496,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3082,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3083,
+      "y": 3495,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3083,
+      "y": 3496,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3083,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3083,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3083,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3085,
+      "y": 3510,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3085,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3086,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3086,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3086,
+      "y": 3510,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3086,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3087,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3087,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3087,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3088,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3089,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3090,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3091,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3091,
+      "y": 3500,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3091,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3091,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3091,
+      "y": 3510,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3092,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3092,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3093,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3093,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3093,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3094,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3094,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3094,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3094,
+      "y": 3500,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3094,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3094,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3095,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3095,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3095,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3095,
+      "y": 3499,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3095,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3095,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3494,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3499,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3096,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3097,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3097,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3097,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3098,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3098,
+      "y": 3496,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3098,
+      "y": 3499,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3098,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3098,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3098,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3493,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3099,
+      "y": 3506,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3509,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3100,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3101,
+      "y": 3507,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3102,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3102,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3103,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3103,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3103,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3103,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3103,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3103,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3103,
+      "y": 3509,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3104,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3104,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3104,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3104,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3104,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3104,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3104,
+      "y": 3496,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3104,
+      "y": 3499,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3104,
+      "y": 3500,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3104,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3104,
+      "y": 3509,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3105,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3105,
+      "y": 3499,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3105,
+      "y": 3500,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3105,
+      "y": 3501,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3105,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3105,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3105,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3106,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3106,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3106,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3106,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3107,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3107,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3107,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3107,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3108,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3108,
+      "y": 3501,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3109,
+      "y": 3496,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3497,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3498,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3499,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3501,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3510,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3109,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3110,
+      "y": 3496,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3497,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3498,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3501,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3510,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3110,
+      "y": 3511,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3111,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3111,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3111,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3111,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3111,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3111,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3479,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3480,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3481,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3482,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3483,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3484,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3485,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3486,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3487,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3488,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3489,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3490,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3112,
+      "y": 3491,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3112,
+      "y": 3492,
+      "plane": 0,
+      "tileFlag": 1
+    },
+    {
+      "x": 3112,
+      "y": 3503,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3504,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3505,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3112,
+      "y": 3508,
+      "plane": 0,
+      "tileFlag": 0
+    }
+  ],
+  "walkerHints": {
+    "zoneName": "::home",
+    "waypointChain": [],
+    "anchorCount": 1,
+    "objectCount": 834,
+    "npcCount": 42,
+    "blockedTileCount": 251
+  }
+}

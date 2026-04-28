@@ -1,0 +1,1172 @@
+{
+  "sessionName": "Varrock",
+  "zoneName": "varrock path to bank",
+  "createdAt": "2026-04-12T19:19:23.079026400Z",
+  "summary": {
+    "anchorCount": 0,
+    "waypointCount": 1,
+    "objectCount": 0,
+    "namedObjectCount": 0,
+    "actionableObjectCount": 0,
+    "obstacleObjectCount": 0,
+    "npcCount": 0,
+    "actionableNpcCount": 0,
+    "blockedTileCount": 188
+  },
+  "anchors": [
+
+  ],
+  "waypoints": [
+    {
+      "order": 1,
+      "label": "varrock path to bank",
+      "x": 3195,
+      "y": 3430,
+      "plane": 0
+    }
+  ],
+  "objects": [
+
+  ],
+  "npcs": [
+
+  ],
+  "blockedTiles": [
+    {
+      "x": 3180,
+      "y": 3433,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3180,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3185,
+      "y": 3421,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3185,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3185,
+      "y": 3427,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3186,
+      "y": 3421,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3186,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3186,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3186,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3439,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3186,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3414,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3187,
+      "y": 3433,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3434,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3439,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3187,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3421,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3188,
+      "y": 3424,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3188,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3188,
+      "y": 3433,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3434,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3439,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3188,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3423,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3189,
+      "y": 3433,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3434,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3439,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3189,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3420,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3190,
+      "y": 3423,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3190,
+      "y": 3424,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3190,
+      "y": 3427,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3190,
+      "y": 3433,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3434,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3439,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3190,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 5
+    },
+    {
+      "x": 3194,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3194,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3195,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3195,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3195,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3198,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3198,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3199,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3199,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3200,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3201,
+      "y": 3416,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3417,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3423,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3425,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3431,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3201,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3201,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3201,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3201,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3202,
+      "y": 3415,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3416,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3418,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3431,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3434,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3202,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3202,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3202,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3202,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3202,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3203,
+      "y": 3414,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3418,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3419,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3425,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3431,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3437,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3203,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3203,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3203,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3203,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3204,
+      "y": 3415,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3204,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3204,
+      "y": 3425,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3204,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3204,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3204,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3204,
+      "y": 3444,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3205,
+      "y": 3415,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3205,
+      "y": 3419,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3205,
+      "y": 3420,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3205,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3205,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3205,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3205,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3205,
+      "y": 3443,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3206,
+      "y": 3422,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3206,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3206,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3206,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3207,
+      "y": 3423,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3207,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3207,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3207,
+      "y": 3439,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3207,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3207,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3208,
+      "y": 3414,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3208,
+      "y": 3417,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3208,
+      "y": 3419,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3208,
+      "y": 3435,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3208,
+      "y": 3436,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3208,
+      "y": 3440,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3209,
+      "y": 3416,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3209,
+      "y": 3417,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3209,
+      "y": 3418,
+      "plane": 0,
+      "tileFlag": 4
+    },
+    {
+      "x": 3209,
+      "y": 3438,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3209,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3209,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3427,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3430,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3431,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3441,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3442,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3210,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3211,
+      "y": 3426,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3211,
+      "y": 3427,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3211,
+      "y": 3430,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3211,
+      "y": 3431,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3211,
+      "y": 3445,
+      "plane": 0,
+      "tileFlag": 0
+    },
+    {
+      "x": 3211,
+      "y": 3446,
+      "plane": 0,
+      "tileFlag": 0
+    }
+  ],
+  "walkerHints": {
+    "zoneName": "varrock path to bank",
+    "waypointChain": [{"x": 3195, "y": 3430, "plane": 0}],
+    "anchorCount": 0,
+    "objectCount": 0,
+    "npcCount": 0,
+    "blockedTileCount": 188
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "serverName": "Reason",
+    "serverSlug": "reason",
+    "botType": "Mining",
+    "botTypeSlug": "mining",
+    "routeName": "Donator Zone (mining rune)",
+    "routeSlug": "donator-zone-mining-rune",
+    "activityType": "mining",
+    "resourceType": "Perk Master",
+    "createdDate": "2026-04-15",
+    "status": "draft"
+  },
+  "requirements": {
+    "levelRequirement": "",
+    "notes": []
+  },
+  "routeAnchors": {
+    "teleportDestination": [],
+    "returnTargetAnchor": [
+      {
+        "label": "Perk Master",
+        "x": 1273,
+        "y": 2585,
+        "plane": 2,
+        "id": 7958,
+    "actions": ["Talk-to", "Get-task"],
+        "notes": "Perk-master NPC"
+      }
+    ],
+    "bankDoorTiles": [],
+    "bankInsideTiles": [],
+    "bankStandTile": [],
+    "bankObjectTile": [
+      {
+        "label": "Front of Bank chest Tile",
+        "x": 1274,
+        "y": 2580,
+        "plane": 2,
+        "id": 0,
+    "actions": [],
+        "notes": "front of bank chest tile"
+      }
+    ],
+    "safeStandTiles": []
+  },
+  "resourceTargets": {
+    "names": ["Perk Master", "Runite ore", "Front of Resource Tile", "Front of NPC tile", "Bank chest"],
+    "objectIds": [7958, 11376, 26711],
+    "npcIds": [],
+    "groundItemIds": [],
+    "tiles": [
+      {
+        "label": "Perk Master",
+        "x": 1273,
+        "y": 2585,
+        "plane": 2,
+        "id": 7958,
+    "actions": ["Talk-to", "Get-task"],
+        "notes": "Perk-master NPC"
+      },
+      {
+        "label": "Runite ore",
+        "x": 1276,
+        "y": 2581,
+        "plane": 2,
+        "id": 11376,
+    "actions": ["Mine"],
+        "notes": ""
+      },
+      {
+        "label": "Front of Resource Tile",
+        "x": 1275,
+        "y": 2581,
+        "plane": 2,
+        "id": 0,
+    "actions": [],
+        "notes": "tile in front of runite ore"
+      },
+      {
+        "label": "Front of NPC tile",
+        "x": 1274,
+        "y": 2585,
+        "plane": 2,
+        "id": 0,
+    "actions": [],
+        "notes": "Front of perkmaster tile"
+      },
+      {
+        "label": "Bank chest",
+        "x": 1273,
+        "y": 2580,
+        "plane": 2,
+        "id": 26711,
+    "actions": ["Use"],
+        "notes": "bank"
+      },
+      {
+        "label": "Perk Master",
+        "x": 1273,
+        "y": 2585,
+        "plane": 2,
+        "id": 7958,
+    "actions": ["Talk-to", "Get-task"],
+        "notes": "Perk-master NPC"
+      }
+    ]
+  },
+  "bankTargets": {
+    "type": "booth",
+    "objectIds": [],
+    "npcIds": [],
+    "actions": ["Bank"],
+    "tiles": [
+      {
+        "label": "Front of Bank chest Tile",
+        "x": 1274,
+        "y": 2580,
+        "plane": 2,
+        "id": 0,
+    "actions": [],
+        "notes": "front of bank chest tile"
+      }
+    ]
+  },
+  "pathChains": {
+    "toBank": [],
+    "toResource": [],
+    "alternatePaths": []
+  },
+  "interactionTargets": {
+    "doors": [],
+    "gates": [],
+    "ladders": [],
+    "stairs": [],
+    "portals": [],
+    "obstacles": []
+  },
+  "walkerHints": {
+    "preferredScanRadius": 16,
+    "avoidTiles": [],
+    "blockedTileFlags": [],
+    "regionNotes": [],
+    "customServerWarnings": []
+  },
+  "loot": {
+    "defaultEnabled": false,
+    "suggestedItems": [],
+    "pickupStyle": "immediate"
+  },
+  "sourceData": {
+    "importedMapperExports": [],
+    "manualCaptureRows": []
+  },
+  "testStatus": {
+    "choppingOrInteraction": "",
+    "banking": "",
+    "powercutting": "",
+    "looting": "",
+    "knownIssues": [],
+    "nextFixes": []
+  },
+  "paths": {
+    "routeRoot": "D:\\Code Agents\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\mining\\donator-zone-mining-rune",
+    "capturesDir": "D:\\Code Agents\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\mining\\donator-zone-mining-rune\\captures",
+    "exportsDir": "D:\\Code Agents\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\mining\\donator-zone-mining-rune\\exports",
+    "screenshotsDir": "D:\\Code Agents\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\mining\\donator-zone-mining-rune\\screenshots"
+  }
+}

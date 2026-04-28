@@ -1,0 +1,41 @@
+﻿# rs.kreme.ksbot.api.hooks
+
+Generated from:
+- ``D:\Codex GPT\RSPS\KSBOT Script building\ksbot\rs.kreme.nearreality-api.jar``
+
+## Classes
+
+- [AntiBan](./AntiBan.md)
+- [Bank](./Bank.md)
+- [Bank$DepositBox](./Bank__DepositBox.md)
+- [Bank$Inventory](./Bank__Inventory.md)
+- [Bank$WithdrawMode](./Bank__WithdrawMode.md)
+- [Equipment](./Equipment.md)
+- [GameObjects](./GameObjects.md)
+- [GraphicsObjects](./GraphicsObjects.md)
+- [GroundItems](./GroundItems.md)
+- [Inventory](./Inventory.md)
+- [Items](./Items.md)
+- [Keyboard](./Keyboard.md)
+- [Keyboard$1](./Keyboard__1.md)
+- [Magic](./Magic.md)
+- [Magic$1](./Magic__1.md)
+- [Mouse](./Mouse.md)
+- [Mouse$1](./Mouse__1.md)
+- [Mouse$2](./Mouse__2.md)
+- [Mouse$3](./Mouse__3.md)
+- [Mouse$ClickEvent](./Mouse__ClickEvent.md)
+- [NPCs](./NPCs.md)
+- [Players](./Players.md)
+- [Shop](./Shop.md)
+- [Skills](./Skills.md)
+- [Teleporter](./Teleporter.md)
+- [Teleporter$1](./Teleporter__1.md)
+- [Tiles](./Tiles.md)
+- [Trade](./Trade.md)
+- [Trade$Inventory](./Trade__Inventory.md)
+- [TradingPost](./TradingPost.md)
+- [User](./User.md)
+- [User$ClientUser](./User__ClientUser.md)
+- [Widgets](./Widgets.md)
+- [WorldArea](./WorldArea.md)

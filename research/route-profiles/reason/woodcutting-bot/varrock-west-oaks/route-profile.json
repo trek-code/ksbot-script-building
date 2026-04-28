@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "serverName": "Reason",
+    "serverSlug": "reason",
+    "botFamily": "woodcutting-bot",
+    "botFamilySlug": "woodcutting-bot",
+    "routeName": "Varrock West Oaks",
+    "routeSlug": "varrock-west-oaks",
+    "activityType": "woodcutting",
+    "resourceType": "Oak Tree",
+    "createdDate": "2026-04-13",
+    "status": "draft"
+  },
+  "requirements": {
+    "levelRequirement": "15",
+    "itemRequirements": [],
+    "accountRequirements": [],
+    "teleportRequirements": [],
+    "notes": [
+      "Use the closest bank-side oak first when returning from bank.",
+      "Both powercut and bank modes are intended for this route."
+    ]
+  },
+  "routeAnchors": {
+    "teleportDestination": [],
+    "treeOrTargetAnchor": [
+      {
+        "category": "treeAnchor",
+        "label": "primary oak anchor",
+        "x": 3167,
+        "y": 3420,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Closest oak to the bank"
+      }
+    ],
+    "returnTargetAnchor": [
+      {
+        "category": "returnAnchor",
+        "label": "preferred return tile 1",
+        "x": 3169,
+        "y": 3423,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Bank-side return anchor"
+      },
+      {
+        "category": "returnAnchor",
+        "label": "preferred return tile 2",
+        "x": 3170,
+        "y": 3423,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Bank-side return anchor"
+      },
+      {
+        "category": "returnAnchor",
+        "label": "preferred return tile 3",
+        "x": 3170,
+        "y": 3424,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Bank-side return anchor"
+      }
+    ],
+    "bankDoorTiles": [
+      {
+        "category": "bankDoor",
+        "label": "entry tile 1",
+        "x": 3183,
+        "y": 3433,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West bank entrance"
+      },
+      {
+        "category": "bankDoor",
+        "label": "entry tile 2",
+        "x": 3182,
+        "y": 3433,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West bank entrance"
+      }
+    ],
+    "bankInsideTiles": [
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 3183,
+        "y": 3435,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 2",
+        "x": 3182,
+        "y": 3435,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 3",
+        "x": 3182,
+        "y": 3434,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 4",
+        "x": 3183,
+        "y": 3434,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      }
+    ],
+    "bankStandTile": [
+      {
+        "category": "bankStand",
+        "label": "stand tile",
+        "x": 3185,
+        "y": 3436,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Exact stand tile in front of preferred booth"
+      }
+    ],
+    "bankObjectTile": [
+      {
+        "category": "bankTarget",
+        "label": "preferred bank booth",
+        "x": 3186,
+        "y": 3436,
+        "plane": 0,
+        "id": 10583,
+        "actions": [
+          "Bank"
+        ],
+        "notes": "Preferred Varrock West booth"
+      }
+    ],
+    "safeStandTiles": []
+  },
+  "resourceTargets": {
+    "names": [
+      "Oak tree"
+    ],
+    "objectIds": [
+      10820
+    ],
+    "npcIds": [],
+    "groundItemIds": [],
+    "tiles": [
+      {
+        "category": "resourceTile",
+        "label": "primary oak",
+        "x": 3167,
+        "y": 3420,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Closest tree to the bank"
+      },
+      {
+        "category": "resourceTile",
+        "label": "backup oak 1",
+        "x": 3161,
+        "y": 3416,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Backup oak in the cluster"
+      },
+      {
+        "category": "resourceTile",
+        "label": "backup oak 2",
+        "x": 3165,
+        "y": 3411,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Backup oak in the cluster"
+      }
+    ]
+  },
+  "bankTargets": {
+    "type": "booth",
+    "objectIds": [
+      10583
+    ],
+    "npcIds": [],
+    "actions": [
+      "Bank"
+    ],
+    "tiles": [
+      {
+        "category": "bankTarget",
+        "label": "preferred bank booth",
+        "x": 3186,
+        "y": 3436,
+        "plane": 0,
+        "id": 10583,
+        "actions": [
+          "Bank"
+        ],
+        "notes": "Preferred Varrock West booth"
+      }
+    ]
+  },
+  "pathChains": {
+    "toResource": [],
+    "toBank": [],
+    "returnToResource": [
+      {
+        "category": "returnWaypoint",
+        "label": "midpoint to trees",
+        "x": 3175,
+        "y": 3428,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Halfway point between bank and trees"
+      }
+    ],
+    "alternatePaths": []
+  },
+  "interactionTargets": {
+    "doors": [],
+    "gates": [],
+    "ladders": [],
+    "stairs": [],
+    "portals": [],
+    "obstacles": []
+  },
+  "walkerHints": {
+    "preferredScanRadius": 16,
+    "avoidTiles": [],
+    "blockedTileFlags": [],
+    "regionNotes": [],
+    "customServerWarnings": []
+  },
+  "loot": {
+    "defaultEnabled": false,
+    "suggestedItems": [
+      "Bird nest"
+    ],
+    "pickupStyle": "immediate"
+  },
+  "sourceData": {
+    "importedMapperExports": [],
+    "manualCaptureRows": [
+      {
+        "category": "resourceTile",
+        "label": "primary oak",
+        "x": 3167,
+        "y": 3420,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Closest tree to the bank"
+      },
+      {
+        "category": "resourceTile",
+        "label": "backup oak 1",
+        "x": 3161,
+        "y": 3416,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Backup oak in the cluster"
+      },
+      {
+        "category": "resourceTile",
+        "label": "backup oak 2",
+        "x": 3165,
+        "y": 3411,
+        "plane": 0,
+        "id": 10820,
+        "actions": [
+          "Chop down"
+        ],
+        "notes": "Backup oak in the cluster"
+      },
+      {
+        "category": "returnAnchor",
+        "label": "preferred return tile 1",
+        "x": 3169,
+        "y": 3423,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Bank-side return anchor"
+      },
+      {
+        "category": "returnAnchor",
+        "label": "preferred return tile 2",
+        "x": 3170,
+        "y": 3423,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Bank-side return anchor"
+      },
+      {
+        "category": "returnAnchor",
+        "label": "preferred return tile 3",
+        "x": 3170,
+        "y": 3424,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Bank-side return anchor"
+      },
+      {
+        "category": "bankDoor",
+        "label": "entry tile 1",
+        "x": 3183,
+        "y": 3433,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West bank entrance"
+      },
+      {
+        "category": "bankDoor",
+        "label": "entry tile 2",
+        "x": 3182,
+        "y": 3433,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West bank entrance"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 1",
+        "x": 3183,
+        "y": 3435,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 2",
+        "x": 3182,
+        "y": 3435,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 3",
+        "x": 3182,
+        "y": 3434,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankInside",
+        "label": "inside tile 4",
+        "x": 3183,
+        "y": 3434,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Varrock West inside tile"
+      },
+      {
+        "category": "bankStand",
+        "label": "stand tile",
+        "x": 3185,
+        "y": 3436,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Exact stand tile in front of preferred booth"
+      },
+      {
+        "category": "bankTarget",
+        "label": "preferred bank booth",
+        "x": 3186,
+        "y": 3436,
+        "plane": 0,
+        "id": 10583,
+        "actions": [
+          "Bank"
+        ],
+        "notes": "Preferred Varrock West booth"
+      },
+      {
+        "category": "returnWaypoint",
+        "label": "midpoint to trees",
+        "x": 3175,
+        "y": 3428,
+        "plane": 0,
+        "id": "",
+        "actions": [],
+        "notes": "Halfway point between bank and trees"
+      }
+    ]
+  },
+  "testStatus": {
+    "choppingOrInteraction": "",
+    "banking": "",
+    "powercutting": "",
+    "looting": "",
+    "knownIssues": [],
+    "nextFixes": []
+  },
+  "paths": {
+    "routeRoot": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-oaks",
+    "capturesDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-oaks\\captures",
+    "exportsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-oaks\\exports",
+    "screenshotsDir": "D:\\Codex GPT\\RSPS\\KSBOT Script building\\research\\route-profiles\\reason\\woodcutting-bot\\varrock-west-oaks\\screenshots"
+  }
+}
